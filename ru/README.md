@@ -18,6 +18,7 @@
  - [Перестановка комнат](/articles/ru/general/room-drag-n-drop)
  - [Карточка участника](/articles/ru/general/profile-cards)
  - [Глобальный поиск](/articles/ru/general/global-search)
+ - [Часто задаваемые вопросы](/articles/ru/general/faq)
 - [**Упоминания и уведомления**](/articles/ru/notifications)
  - [Управление информационным шумом](/articles/ru/notifications/noise-control)
  - [Звуковые уведомления](/articles/ru/notifications/audio-notifications)
