@@ -12,3 +12,4 @@ If you're an admin in your Kato team, be sure to familiarize yourself with the d
 ## [Rooms Drag-n-Drop](/articles/en/general/rooms-drag-n-drop)
 ## [Profile Cards](/articles/en/general/profile-cards)
 ## [Global Search](/articles/en/general/global-search)
+## [FAQ](/articles/en/general/faq)
