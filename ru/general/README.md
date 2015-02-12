@@ -15,3 +15,4 @@
 ## [Перестановка комнат](/articles/ru/general/room-drag-n-drop)
 ## [Карточка участника](/articles/ru/general/profile-cards)
 ## [Глобальный поиск](/articles/ru/general/global-search)
+## [Часто задаваемые вопросы](/articles/ru/general/faq)
