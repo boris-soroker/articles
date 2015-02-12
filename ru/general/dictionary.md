@@ -55,7 +55,6 @@
  - Global search `>>` Глобальный поиск `>>` [ссылка](/articles/ru/teams/)
  - Group mention `>>` Упоминание группы `>>` [ссылка](/articles/ru/teams/)
  - Indirect mention `>>` Неявное упоминание `>>` [ссылка](/articles/ru/teams/)
- - Kato support `>>` Поддержка от Kato `>>` [ссылка](/articles/ru/teams/)
  - Kato support room `>>` Комната технической поддержки `>>` [ссылка](/articles/ru/teams/)
  - Keyboard control `>>` Клавиатурный контроль `>>` [ссылка](/articles/ru/teams/)
  - Knowledge base `>>` Кладовая знаний `>>` [ссылка](/articles/ru/teams/)
