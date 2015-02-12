@@ -52,6 +52,11 @@
                             "type": "page",
                             "src": "global-search",
                             "title": "Global Search"
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -264,6 +269,11 @@
                             "type": "page",
                             "src": "global-search",
                             "title": "Глобальный поиск"
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
