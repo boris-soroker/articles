@@ -1,9 +1,9 @@
 ***
 
-### Русский >> English >> ссылка
+### Русский  ::  English  ::  ссылка
 
- - Админ команды >> Team admin >> [ссылка](/articles/ru/teams/)
- - Вход >> Sign in >> [ссылка](/articles/ru/teams/)
+ - Админ команды  ::  Team admin  ::  [ссылка](/articles/ru/teams/)
+ - Вход  ::  Sign in  ::  [ссылка](/articles/ru/teams/)
  - Выход >> Sign out >> [ссылка](/articles/ru/teams/)
  - Глобальный поиск >> Global search >> [ссылка](/articles/ru/teams/)
  - Давайте начнём >> Getting started >> [ссылка](/articles/ru/teams/)
