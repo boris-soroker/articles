@@ -8,6 +8,7 @@
  - Глобальный поиск `>>` Global search `>>` [ссылка](/articles/ru/teams/)
  - Давайте начнём `>>` Getting started `>>` [ссылка](/articles/ru/teams/)
  - Директива `>>` Command `>>` [ссылка](/articles/ru/teams/)
+ - Доступ к комнате`>>` Room access `>>` [ссылка](/articles/ru/teams/)
  - Журнал аудитора `>>` Audit log `>>` [ссылка](/articles/ru/teams/)
  - Защищённая комната `>>` Restricted room `>>` [ссылка](/articles/ru/teams/)
  - История комнаты `>>` Room history `>>` [ссылка](/articles/ru/teams/)
@@ -42,41 +43,42 @@
 
 ### English - Русский
 
- - **Account** (**Учётная запись**): ссылка
- - **Audit log** (**Журнал аудитора**): ссылка
- - **Collapsed team** (**Схлопнутая команда**): ссылка
- - **Command** (**Директива**): ссылка
- - **Direct mention** (**Явное упоминание**): ссылка
- - **Expanded team** (**Раскрытая команда**): ссылка
- - **Getting started** (**Давайте начнём**): ссылка
- - **Global search** (**Глобальный поиск**): ссылка
- - **Group mention** (**Упоминание группы**): ссылка
- - **Indirect mention** (**Неявное упоминание**): ссылка
- - **Kato support** (**Поддержка от Kato**): ссылка
+ - Account `>>` Учётная запись `>>` [ссылка](/articles/ru/teams/)
+ - Audit log `>>` Журнал аудитора `>>` [ссылка](/articles/ru/teams/)
+ - Collapsed team `>>` Схлопнутая команда `>>` [ссылка](/articles/ru/teams/)
+ - Command `>>` Директива `>>` [ссылка](/articles/ru/teams/)
+ - Direct mention `>>` Явное упоминание `>>` [ссылка](/articles/ru/teams/)
+ - Expanded team `>>` Раскрытая команда `>>` [ссылка](/articles/ru/teams/)
+ - Getting started `>>` Давайте начнём `>>` [ссылка](/articles/ru/teams/)
+ - Global search `>>` Глобальный поиск `>>` [ссылка](/articles/ru/teams/)
+ - Group mention `>>` Упоминание группы `>>` [ссылка](/articles/ru/teams/)
+ - Indirect mention `>>` Неявное упоминание `>>` [ссылка](/articles/ru/teams/)
+ - Kato support `>>` Поддержка от Kato `>>` [ссылка](/articles/ru/teams/)
  - Kato support room `>>` Комната технической поддержки `>>` [ссылка](/articles/ru/teams/)
- - **Keyboard control** (**Клавиатурный контроль**): ссылка
- - **Knowledge base** (**Кладовая знаний**): ссылка
- - **Manage integrations** (**Управление интеграциями**): ссылка
- - **Mention** (**Упоминание**): ссылка
- - **Message** (**Сообщение**): ссылка
- - **My account** (**Моя учётная запись**): ссылка
- - **My teams** (**Мои команды**): ссылка
- - **Notification** (**Уведомление**): ссылка
- - **People** (**Участники**): ссылка
- - **Profile card** (**Карточка участника**): ссылка
- - **Railroad** (**Шпалы**): ссылка
- - **Restricted member** (**Казачок**): ссылка
- - **Restricted room** (**Защищённая комната**): ссылка
- - **Room** (**Комната**): ссылка
- - **Room history** (**История комнаты**): ссылка
- - **Roster** (**Ростер**): ссылка
- - **Search** (**Поиск**): ссылка
- - **Sign in** (**Вход**): ссылка
- - **Sign out** (**Выход**): ссылка
- - **Sign up** (**Подписка**): ссылка
- - **Support room** (**Комната поддержки**): ссылка
- - **Team** (**Команда**): ссылка
- - **Team admin** (**Админ команды**): ссылка
- - **Team member** (**Участник команды**): ссылка 
- - **Unrestricted member** (**Обычный участник**): ссылка
- - **Unrestricted room** (**Общедоступная комната**): ссылка
+ - Keyboard control `>>` Клавиатурный контроль `>>` [ссылка](/articles/ru/teams/)
+ - Knowledge base `>>` Кладовая знаний `>>` [ссылка](/articles/ru/teams/)
+ - Manage integrations `>>` Управление интеграциями `>>` [ссылка](/articles/ru/teams/)
+ - Mention `>>` Упоминание `>>` [ссылка](/articles/ru/teams/)
+ - Message `>>` Сообщение `>>` [ссылка](/articles/ru/teams/)
+ - My account `>>` Моя учётная запись `>>` [ссылка](/articles/ru/teams/)
+ - My teams `>>` Мои команды `>>` [ссылка](/articles/ru/teams/)
+ - Notification `>>` Уведомление `>>` [ссылка](/articles/ru/teams/)
+ - People `>>` Участники `>>` [ссылка](/articles/ru/teams/)
+ - Profile card `>>` Карточка участника `>>` [ссылка](/articles/ru/teams/)
+ - Railroad `>>` Шпалы `>>` [ссылка](/articles/ru/teams/)
+ - Restricted member `>>` Казачок `>>` [ссылка](/articles/ru/teams/)
+ - Restricted room `>>` Защищённая комната `>>` [ссылка](/articles/ru/teams/)
+ - Room `>>` Комната `>>` [ссылка](/articles/ru/teams/)
+ - Room access `>>` Доступ к комнате `>>` [ссылка](/articles/ru/teams/)
+ - Room history `>>` История комнаты `>>` [ссылка](/articles/ru/teams/)
+ - Roster `>>` Ростер `>>` [ссылка](/articles/ru/teams/)
+ - Search `>>` Поиск `>>` [ссылка](/articles/ru/teams/)
+ - Sign in `>>` Вход `>>` [ссылка](/articles/ru/teams/)
+ - Sign out `>>` Выход `>>` [ссылка](/articles/ru/teams/)
+ - Sign up `>>` Подписка `>>` [ссылка](/articles/ru/teams/)
+ - Support room `>>` Комната поддержки `>>` [ссылка](/articles/ru/teams/)
+ - Team `>>` Команда `>>` [ссылка](/articles/ru/teams/)
+ - Team admin `>>` Админ команды `>>` [ссылка](/articles/ru/teams/)
+ - Team member `>>` Участник команды `>>` [ссылка](/articles/ru/teams/)
+ - Unrestricted member `>>` Обычный участник `>>` [ссылка](/articles/ru/teams/)
+ - Unrestricted room `>>` Общедоступная комната `>>` [ссылка](/articles/ru/teams/)
