@@ -1,44 +1,44 @@
 ***
 
-### Русский - English
+### Русский >> English >> ссылка
 
- - Админ команды >> Team admin [ссылка](/articles/ru/teams/)
- - Вход >> Sign in [ссылка](/articles/ru/teams/)
- - **Выход** (**Sign out**): ссылка
- - **Глобальный поиск** (**Global search**): ссылка
- - **Давайте начнём** (**Getting started**): ссылка
- - **Директива** (**Command**): ссылка
- - **Журнал аудитора** (**Audit log**): ссылка
- - **Защищённая комната** (**Restricted room**): ссылка
- - **История комнаты** (**Room history**): ссылка
- - **Казачок** (**Restricted member**): ссылка
- - **Клавиатурный контроль** (**Keyboard control**): ссылка
- - **Команда** (**Team**): ссылка
- - **Комната** (**Room**): ссылка
- - **Комната поддержки** (**Support room**): ссылка
- - **Карточка участника** (**Profile card**): ссылка
- - **Кладовая знаний** (**Knowledge base**): ссылка
- - **Мои команды** (**My teams**): ссылка
- - **Моя учётная запись** (**My account**): ссылка
- - **Неявное упоминание** (**Indirect mention**): ссылка
- - **Общедоступная комната** (**Unrestricted room**): ссылка
- - **Обычный участник** (**Unrestricted member**): ссылка
- - **Поддержка от Kato** (**Kato support**): ссылка
- - **Подписка** (**Sign up**): ссылка
- - **Поиск** (**Search**): ссылка
- - **Раскрытая команда** (**Expanded team**): ссылка
- - **Ростер** (**Roster**): ссылка
- - **Сообщение** (**Message**): ссылка
- - **Схлопнутая команда** (**Collapsed team**): ссылка
- - **Уведомление** (**Notification**): ссылка
- - **Упоминание** (**Mention**): ссылка
- - **Упоминание группы** (**Group mention**): ссылка
- - **Управление интеграциями** (**Manage integrations**): ссылка
- - **Участник команды** (**Team member**): ссылка 
- - **Участники** (**People**): ссылка
- - **Учётная запись** (**Account**): ссылка
- - **Шпалы** (**Railroad**): ссылка
- - **Явное упоминание** (**Direct mention**): ссылка
+ - Админ команды >> Team admin >> [ссылка](/articles/ru/teams/)
+ - Вход >> Sign in >> [ссылка](/articles/ru/teams/)
+ - Выход >> Sign out >> [ссылка](/articles/ru/teams/)
+ - Глобальный поиск >> Global search >> [ссылка](/articles/ru/teams/)
+ - Давайте начнём >> Getting started >> [ссылка](/articles/ru/teams/)
+ - Директива >> Command >> [ссылка](/articles/ru/teams/)
+ - Журнал аудитора >> Audit log >> [ссылка](/articles/ru/teams/)
+ - Защищённая комната >> Restricted room >> [ссылка](/articles/ru/teams/)
+ - История комнаты >> Room history >> [ссылка](/articles/ru/teams/)
+ - Казачок >> Restricted member >> [ссылка](/articles/ru/teams/)
+ - Клавиатурный контроль >> Keyboard control >> [ссылка](/articles/ru/teams/)
+ - Команда >> Team >> [ссылка](/articles/ru/teams/)
+ - Комната >> Room >> [ссылка](/articles/ru/teams/)
+ - Комната поддержки >> Support room >> [ссылка](/articles/ru/teams/)
+ - Карточка участника >> Profile card >> [ссылка](/articles/ru/teams/)
+ - Кладовая знаний >> Knowledge base >> [ссылка](/articles/ru/teams/)
+ - Мои команды >> My teams >> [ссылка](/articles/ru/teams/)
+ - Моя учётная запись >> My account >> [ссылка](/articles/ru/teams/)
+ - Неявное упоминание >> Indirect mention >> [ссылка](/articles/ru/teams/)
+ - Общедоступная комната >> Unrestricted room >> [ссылка](/articles/ru/teams/)
+ - Обычный участник >> Unrestricted member >> [ссылка](/articles/ru/teams/)
+ - Комната технической поддержки >> Kato support room >> [ссылка](/articles/ru/teams/)
+ - Подписка >> Sign up >> [ссылка](/articles/ru/teams/)
+ - Поиск >> Search >> [ссылка](/articles/ru/teams/)
+ - Раскрытая команда >> Expanded team >> [ссылка](/articles/ru/teams/)
+ - Ростер >> Roster >> [ссылка](/articles/ru/teams/)
+ - Сообщение >> Message >> [ссылка](/articles/ru/teams/)
+ - Схлопнутая команда >> Collapsed team >> [ссылка](/articles/ru/teams/)
+ - Уведомление >> Notification >> [ссылка](/articles/ru/teams/)
+ - Упоминание >> Mention >> [ссылка](/articles/ru/teams/)
+ - Упоминание группы >> Group mention >> [ссылка](/articles/ru/teams/)
+ - Управление интеграциями >> Manage integrations >> [ссылка](/articles/ru/teams/)
+ - Участник команды >> Team member >> [ссылка](/articles/ru/teams/)
+ - Участники >> People >> [ссылка](/articles/ru/teams/)
+ - Учётная запись >> Account >> [ссылка](/articles/ru/teams/)
+ - Шпалы >> Railroad >> [ссылка](/articles/ru/teams/)
+ - Явное упоминание >> Direct mention >> [ссылка](/articles/ru/teams/)
 
 ### English - Русский
 
