@@ -29,6 +29,7 @@
  - Комната технической поддержки `>>` Kato support room `>>` [ссылка](/articles/ru/teams/)
  - Подписка `>>` Sign up `>>` [ссылка](/articles/ru/teams/)
  - Поиск `>>` Search `>>` [ссылка](/articles/ru/teams/)
+ - Поменять `>>` Change `>>` [ссылка](/articles/ru/teams/)
  - Профиль `>>` Profile `>>` [ссылка](/articles/ru/teams/)
  - Раскрытая команда `>>` Expanded team `>>` [ссылка](/articles/ru/teams/)
  - Ростер `>>` Roster `>>` [ссылка](/articles/ru/teams/)
@@ -51,6 +52,7 @@
 
  - Account `>>` Учётная запись `>>` [ссылка](/articles/ru/teams/)
  - Audit log `>>` Журнал аудитора `>>` [ссылка](/articles/ru/teams/)
+ - Change `>>` Поменять `>>` [ссылка](/articles/ru/teams/)
  - Collapsed team `>>` Схлопнутая команда `>>` [ссылка](/articles/ru/teams/)
  - Command `>>` Директива `>>` [ссылка](/articles/ru/teams/)
  - Direct mention `>>` Явное упоминание `>>` [ссылка](/articles/ru/teams/)
