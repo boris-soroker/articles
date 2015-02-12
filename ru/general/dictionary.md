@@ -41,6 +41,7 @@
  - Участники `>>` People `>>` [ссылка](/articles/ru/teams/)
  - Учётная запись `>>` Account `>>` [ссылка](/articles/ru/teams/)
  - Шпалы `>>` Railroad `>>` [ссылка](/articles/ru/teams/)
+ - Экранное имя `>>` Display name `>>` [ссылка](/articles/ru/teams/)
  - Явное упоминание `>>` Direct mention `>>` [ссылка](/articles/ru/teams/)
 
 ### English - Русский
@@ -50,6 +51,7 @@
  - Collapsed team `>>` Схлопнутая команда `>>` [ссылка](/articles/ru/teams/)
  - Command `>>` Директива `>>` [ссылка](/articles/ru/teams/)
  - Direct mention `>>` Явное упоминание `>>` [ссылка](/articles/ru/teams/)
+ - Display name `>>` Экранное имя `>>` [ссылка](/articles/ru/teams/)
  - Expanded team `>>` Раскрытая команда `>>` [ссылка](/articles/ru/teams/)
  - Getting started `>>` Давайте начнём `>>` [ссылка](/articles/ru/teams/)
  - Global search `>>` Глобальный поиск `>>` [ссылка](/articles/ru/teams/)
