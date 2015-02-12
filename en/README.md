@@ -21,6 +21,7 @@ The source for these articles is available on GitHub: <a href='https://github.co
  - [Room Drag-n-Drop](/articles/en/general/room-drag-n-drop)
  - [Profile Cards](/articles/en/general/profile-cards)
  - [Global Search](/articles/en/general/global-search)
+ - [FAQ](/articles/en/general/faq)
 - [**Mentions and Notifications**](/articles/en/notifications)
  - [Noise Control](/articles/en/notifications/noise-control)
  - [Audio Notifications](/articles/en/notifications/audio-notifications)
