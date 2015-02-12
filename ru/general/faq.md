@@ -18,4 +18,4 @@
 
 Для защищённых комнат - список участников с доступом к каждой такой комнате находится в её заголовке: 
 
-![clip.png](https://in.kato.im/ea7625c99b8f4f4bd91cd641cfa08313935ff6c323c0856c05fcaefdd5eff7/clip.png)
+![clip.png](https://in.kato.im/43253d911fb518a4303f7dfffdcb2b7d9c7f6d583e6471a05206d84ef3bed816/clip.png)
