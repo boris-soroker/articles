@@ -2,8 +2,8 @@
 
 ### Русский - English
 
- - **Админ команды** >> **Team admin** [ссылка](/articles/ru/teams/)
- - **Вход** >> **Sign in** [ссылка](/articles/ru/teams/)
+ - Админ команды >> Team admin [ссылка](/articles/ru/teams/)
+ - Вход >> Sign in [ссылка](/articles/ru/teams/)
  - **Выход** (**Sign out**): ссылка
  - **Глобальный поиск** (**Global search**): ссылка
  - **Давайте начнём** (**Getting started**): ссылка
