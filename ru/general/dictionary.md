@@ -49,6 +49,7 @@
  - Участник с ограниченным доступом `>>` Restricted member `>>` [ссылка](/articles/ru/teams/)
  - Участник со стандартным доступом `>>` Unrestricted member `>>` [ссылка](/articles/ru/teams/)
  - Участники `>>` People `>>` [ссылка](/articles/ru/teams/)
+ - Участники с доступом `>>` Users with access `>>` [ссылка](/articles/ru/teams/)
  - Учётная запись `>>` Account `>>` [ссылка](/articles/ru/teams/)
  - Шпалы `>>` Railroad `>>` [ссылка](/articles/ru/teams/)
  - Экранное имя `>>` Display name `>>` [ссылка](/articles/ru/teams/)
@@ -105,3 +106,4 @@
  - Team member `>>` Участник команды `>>` [ссылка](/articles/ru/teams/)
  - Unrestricted member `>>` Участник со стандартным доступом `>>` [ссылка](/articles/ru/teams/)
  - Unrestricted room `>>` Общедоступная комната `>>` [ссылка](/articles/ru/teams/)
+ - Users with access `>>` Участники с доступом `>>` [ссылка](/articles/ru/teams/)
