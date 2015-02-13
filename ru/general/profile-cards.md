@@ -28,10 +28,12 @@
 
 Источником данных для профиля является вкладка "Profile" модала "My Account".
 
-Для открытия модала "My Account" следует кликнуть на эту опцию в меню на предыдущей картинке:
+Для открытия модала "My Account" следует кликнуть на опцию "My Account" в меню, показанном на предыдущей картинке:
 
-![clip.png](https://in.kato.im/f07c0af756628e8f2c45eed6fb6aa630fb9b06a9ca959398af10be5c4a7e342/clip.png)
+![clip.png](https://in.kato.im/443a7acc634d2ce0cbdbad25956bed7dae0f19f0d8d296890798a4a2db86fb5/clip.png)
 
 Вкладка "Profile" позволяет изменять поля "My display name", "My job title", а также поля, связанные с фото пользователя:
 
-![clip.png](https://in.kato.im/e601ffc32a9fbf23999a5a1178eadb7434e14126bf7824a05d5caf57823/clip.png)
+![clip.png](https://in.kato.im/b2226c07d88d4a4ccb97761c755b6568498f0dc57e2fe36cd4a4cdf16d0318/clip.png)
+
+Отметим, что адрес электронной почты пользователь может изменить во вкладке "Credentials".
