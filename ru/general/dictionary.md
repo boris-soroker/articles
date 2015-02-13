@@ -37,6 +37,7 @@
  - Комната технической поддержки `>>` Kato support room `>>` [ссылка](/articles/ru/teams/)
  - Подписка `>>` Sign up `>>` [ссылка](/articles/ru/teams/)
  - Поиск `>>` Search `>>` [ссылка](/articles/ru/teams/)
+ - Пользователь `>>` User `>>` [ссылка](/articles/ru/teams/)
  - Поменять `>>` Change `>>` [ссылка](/articles/ru/teams/)
  - Профиль `>>` Profile `>>` [ссылка](/articles/ru/teams/)
  - Раскрытая команда `>>` Expanded team `>>` [ссылка](/articles/ru/teams/)
@@ -110,4 +111,5 @@
  - Team member `>>` Участник команды `>>` [ссылка](/articles/ru/teams/)
  - Unrestricted member `>>` Участник со стандартным доступом `>>` [ссылка](/articles/ru/teams/)
  - Unrestricted room `>>` Общедоступная комната `>>` [ссылка](/articles/ru/teams/)
+ - User `>>` Пользователь `>>` [ссылка](/articles/ru/teams/)
  - Users with access `>>` Участники с доступом `>>` [ссылка](/articles/ru/teams/)
