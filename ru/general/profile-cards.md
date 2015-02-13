@@ -30,7 +30,7 @@
 
 Для открытия окна "My Account" следует кликнуть на опцию "My Account" в меню, показанном на предыдущей картинке:
 
-![clip.png](https://in.kato.im/443a7acc634d2ce0cbdbad25956bed7dae0f19f0d8d296890798a4a2db86fb5/clip.png)
+![clip.png](https://in.kato.im/f8cfa8cfb0cbf1e8bdad1761fef9af3fd92c5e079f0de3ba21553c54bc487eea/clip.png)
 
 Вкладка "Profile" позволяет изменять поля "My display name", "My job title", а также поля, связанные с фото пользователя:
 
