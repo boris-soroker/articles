@@ -6,7 +6,7 @@
 
 ![clip.png](http://i.imgur.com/k72U3nf.png)
 
-##  Содержание:
+##Содержание:
 
 - [**Обзор**](/articles/ru/general)
  - [Как читать этот документ](/articles/ru/general/notation)
