@@ -211,6 +211,112 @@
                             "title": "Product Updates"
                         }
                     ]
+                },
+                {
+                    "type": "category",
+                    "src": "members",
+                    "title": "Members",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "member-types",
+                            "title": "Member Types"
+                        },
+                        {
+                            "type": "page",
+                            "src": "admins",
+                            "title": "Admins"
+                        },
+                        {
+                            "type": "page",
+                            "src": "unrestricted-members",
+                            "title": "Unrestricted Members"
+                        },
+                        {
+                            "type": "page",
+                            "src": "restricted-members",
+                            "title": "Restricted Members"
+                        },
+                        {
+                            "type": "page",
+                            "src": "profile-cards",
+                            "title": "Profile Cards"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "rooms",
+                    "title": "Rooms",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "room-types",
+                            "title": "Room Types"
+                        },
+                        {
+                            "type": "page",
+                            "src": "dialog-rooms",
+                            "title": "1:1 Rooms"
+                        },
+                        {
+                            "type": "page",
+                            "src": "unrestricted-rooms",
+                            "title": "Unrestricted Rooms"
+                        },
+                        {
+                            "type": "page",
+                            "src": "restricted-rooms",
+                            "title": "Restricted Rooms"
+                        },
+                        {
+                            "type": "page",
+                            "src": "support-room",
+                            "title": "Support Room"
+                        },
+                        {
+                            "type": "page",
+                            "src": "audit-log-integration",
+                            "title": "Audit Log Integration"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "messages",
+                    "title": "Messages",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "creating",
+                            "title": "Creating"
+                        },
+                        {
+                            "type": "page",
+                            "src": "formatting",
+                            "title": "Formatting"
+                        },
+                        {
+                            "type": "page",
+                            "src": "editing",
+                            "title": "Editing"
+                        },
+                        {
+                            "type": "page",
+                            "src": "long",
+                            "title": "Long"
+                        },
+                        {
+                            "type": "page",
+                            "src": "history",
+                            "title": "History"
+                        },
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Emoji Support"
+                        }
+                    ]
                 }
             ]
         },
@@ -423,7 +529,114 @@
                             "title": "Интеграция с IFTTT "
                         }
                     ]  
+                },
+                {
+                    "type": "category",
+                    "src": "members",
+                    "title": "Members",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "member-types",
+                            "title": "Типы участников"
+                        },
+                        {
+                            "type": "page",
+                            "src": "admins",
+                            "title": "Админы"
+                        },
+                        {
+                            "type": "page",
+                            "src": "unrestricted-members",
+                            "title": "Участники со стандартным доступом"
+                        },
+                        {
+                            "type": "page",
+                            "src": "restricted-members",
+                            "title": "Участники с ограниченным доступом"
+                        },
+                        {
+                            "type": "page",
+                            "src": "profile-cards",
+                            "title": "Карточка участника"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "rooms",
+                    "title": "Комнаты",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "room-types",
+                            "title": "Типы комнат"
+                        },
+                        {
+                            "type": "page",
+                            "src": "dialog-rooms",
+                            "title": "Комнаты 1:1"
+                        },
+                        {
+                            "type": "page",
+                            "src": "unrestricted-rooms",
+                            "title": "Общедоступные комнаты"
+                        },
+                        {
+                            "type": "page",
+                            "src": "restricted-rooms",
+                            "title": "Защищённые комнаты"
+                        },
+                        {
+                            "type": "page",
+                            "src": "support-room",
+                            "title": "Комната поддержки"
+                        },
+                        {
+                            "type": "page",
+                            "src": "audit-log-integration",
+                            "title": "Интеграция с журналом аудитора"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "messages",
+                    "title": "Сообщения",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "creating",
+                            "title": "Создание"
+                        },
+                        {
+                            "type": "page",
+                            "src": "formatting",
+                            "title": "Форматирование"
+                        },
+                        {
+                            "type": "page",
+                            "src": "Редактирование",
+                            "title": "Editing"
+                        },
+                        {
+                            "type": "page",
+                            "src": "long",
+                            "title": "Длинные сообщения"
+                        },
+                        {
+                            "type": "page",
+                            "src": "history",
+                            "title": "История"
+                        },
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Поддержка смайликов"
+                        }
+                    ]
                 }
+
             ]
         }
     ]
