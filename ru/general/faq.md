@@ -8,6 +8,10 @@
 
 [3. Как узнать, кто является админом в моей команде?](/articles/ru/general/faq#how-to-recognize-an-admin)
 
+[4. Как пользователь может узнать, является ли он админом?](/articles/ru/general/faq#how-get-your-own-role)
+
+[5. Как удалить сообщение?](/articles/ru/general/faq#how-to-delete-a-message)
+
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">1. Как пригласить нового участника в команду?</a>
 
 Если Вы видите в своём ростере иконку со знаком «плюс» справа от текста "PEOPLE", кликните на неё:
@@ -34,4 +38,4 @@
 
 ### <a href="#how-to-recognize-an-admin" name="how-to-recognize-an-admin">3. Как узнать, кто является админом в моей команде?</a>
 
-Смотрите «Важное замечание» [здесь](/articles/ru/general/profile-cards#how-to-see-a-profile-card). 
+Смотрите ответ [здесь](/articles/ru/general/profile-cards#how-to-spot-an-admin). 
