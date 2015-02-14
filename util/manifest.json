@@ -533,7 +533,7 @@
                 {
                     "type": "category",
                     "src": "members",
-                    "title": "Members",
+                    "title": "Участники",
                     "entities": [
                         {
                             "type": "page",
