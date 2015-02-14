@@ -2,9 +2,9 @@
 
 Зелёные стрелки на снимках означают «кликните сюда». Коричневые прямоугольники на снимках обозначают результат, на который следует обратить внимание.
 
- - [1. Как пригласить нового участника в команду?](/articles/ru/general/faq#how-to-invite-a-new-team-member)
- - [2. Как узнать, кто находится в данной комнате?](/articles/ru/general/faq#how-do-I-see-who-is-in-a-room)
- - [3. Как узнать, кто является админом в моей команде?](/articles/ru/general/faq#how-to-recognize-an-admin)
+[1. Как пригласить нового участника в команду?](/articles/ru/general/faq#how-to-invite-a-new-team-member)
+[2. Как узнать, кто находится в данной комнате?](/articles/ru/general/faq#how-do-I-see-who-is-in-a-room)
+[3. Как узнать, кто является админом в моей команде?](/articles/ru/general/faq#how-to-recognize-an-admin)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">1. Как пригласить нового участника в команду?</a>
 
