@@ -32,4 +32,4 @@
 
 ### <a href="#how-to-recognize-an-admin" name="how-to-recognize-an-admin">3. Как узнать, кто является админом в моей команде?</a>
 
-Смотрите «Важное замечание» [здесь](/articles/ru/general/profile-cards). 
+Смотрите «Важное замечание» [здесь](/articles/ru/general/profile-cards##how-to-see-a-profile-card). 
