@@ -8,6 +8,7 @@
 ### <a href="#ru-en" name="ru-en">Русский `>>` English `>>` ссылка</a>
 
  - Админ команды `>>` Team admin `>>` [ссылка](/articles/ru/teams/)
+ - Вне записи `>>` Off The Record `>>` [ссылка](/articles/ru/teams/)
  - Вход `>>` Sign in `>>` [ссылка](/articles/ru/teams/)
  - Выход `>>` Sign out `>>` [ссылка](/articles/ru/teams/)
  - Глобальный поиск `>>` Global search `>>` [ссылка](/articles/ru/teams/)
@@ -94,6 +95,7 @@
  - None `>>` Ничего `>>` [ссылка](/articles/ru/teams/)
  - Not visible in Kato `>>` Не показывается в Kato `>>` [ссылка](/articles/ru/teams/)
  - Notification `>>` Уведомление `>>` [ссылка](/articles/ru/teams/)
+ - Off The Record `>>` Вне записи `>>` [ссылка](/articles/ru/teams/)
  - People `>>` Участники `>>` [ссылка](/articles/ru/teams/)
  - Profile `>>` Профиль `>>` [ссылка](/articles/ru/teams/)
  - Profile card `>>` Карточка участника `>>` [ссылка](/articles/ru/teams/)
