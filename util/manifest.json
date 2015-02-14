@@ -616,8 +616,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "Редактирование",
-                            "title": "Editing"
+                            "src": "editing",
+                            "title": "Редактирование"
                         },
                         {
                             "type": "page",
