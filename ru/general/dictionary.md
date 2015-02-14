@@ -112,4 +112,4 @@
  - Unrestricted member `>>` Участник со стандартным доступом `>>` [ссылка](/articles/ru/teams/)
  - Unrestricted room `>>` Общедоступная комната `>>` [ссылка](/articles/ru/teams/)
  - User `>>` Пользователь `>>` [ссылка](/articles/ru/teams/)
- - Users with access `>>` Участники с доступом `>>` [ссылка](/articles/ru/teams/)
+ - Users with access `>>` Участники с доступом `>>` [ссылка](/articles/ru/teams/) `change that to members with access!`
