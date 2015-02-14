@@ -49,7 +49,7 @@
 
 Кликните на опцию "My Teams":
 
-![clip.png](https://in.kato.im/1c2a56c4c7e5fff08a252a61b0e482297ff98ab943a83f4d256594d6c2038f7b/clip.png)
+![clip.png](https://in.kato.im/a1fd86771e06ce93ad1076b6c52785376a0e3a4959b9aadc48cec06b1d357b/clip.png)
 
 Если напротив имени команды Вы видите иконку «Настройка», то Вы являетесь её админом:
 
