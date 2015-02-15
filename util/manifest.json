@@ -589,6 +589,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "files",
+                            "title": "Публикация файлов"
+                        },
+                        {
+                            "type": "page",
                             "src": "markdown",
                             "title": "Режим Markdown"
                         },
