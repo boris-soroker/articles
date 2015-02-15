@@ -348,11 +348,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "room-drag-n-drop",
-                            "title": "Перестановка комнат"
-                        },
-                        {
-                            "type": "page",
                             "src": "global-search",
                             "title": "Глобальный поиск"
                         },
@@ -571,6 +566,11 @@
                             "type": "page",
                             "src": "support-room",
                             "title": "Комната поддержки"
+                        },
+                        {
+                            "type": "page",
+                            "src": "room-drag-n-drop",
+                            "title": "Перестановка комнат"
                         },
                         {
                             "type": "page",
