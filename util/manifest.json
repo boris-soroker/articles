@@ -414,11 +414,6 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "markdown-syntax",
-                            "title": "Синтаксис Markdown"
-                        },
-                        {
-                            "type": "page",
                             "src": "keyboard-control",
                             "title": "Клавиатурный контроль"
                         },
