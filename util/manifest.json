@@ -348,11 +348,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "long-messages",
-                            "title": "Длинные сообщения"
-                        },
-                        {
-                            "type": "page",
                             "src": "room-types",
                             "title": "Типы комнат"
                         },
