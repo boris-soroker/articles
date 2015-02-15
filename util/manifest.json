@@ -502,6 +502,11 @@
                             "type": "page",
                             "src": "profile-cards",
                             "title": "Карточка участника"
+                        },
+                        {
+                            "type": "page",
+                            "src": "my-account",
+                            "title": "Окно «Моя учётная карточка»"
                         }
                     ]
                 },
