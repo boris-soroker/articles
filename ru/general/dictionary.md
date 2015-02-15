@@ -15,7 +15,7 @@
  - Давайте начнём `>>` Getting started `>>` [ссылка](/articles/ru/teams/)
  - Директива `>>` Command `>>` [ссылка](/articles/ru/teams/)
  - Доступ к комнате`>>` Room access `>>` [ссылка](/articles/ru/teams/)
- - Журнал аудитора `>>` Audit log `>>` [ссылка](/articles/ru/teams/)
+ - Журнал аудита `>>` Audit log `>>` [ссылка](/articles/ru/teams/)
  - Закачать `>>` Fetch `>>` [ссылка](/articles/ru/teams/)
  - Защищённая комната `>>` Restricted room `>>` [ссылка](/articles/ru/teams/)
  - Иконка `>>` Icon `>>` [ссылка](/articles/ru/teams/)
@@ -66,7 +66,7 @@
 ### <a href="#en-ru" name="en-ru">English `>>` Русский `>>` ссылка</a>
 
  - Account `>>` Учётная запись `>>` [ссылка](/articles/ru/teams/)
- - Audit log `>>` Журнал аудитора `>>` [ссылка](/articles/ru/teams/)
+ - Audit log `>>` Журнал аудита `>>` [ссылка](/articles/ru/teams/)
  - Change `>>` Поменять `>>` [ссылка](/articles/ru/teams/)
  - Collapsed team `>>` Схлопнутая команда `>>` [ссылка](/articles/ru/teams/)
  - Command `>>` Директива `>>` [ссылка](/articles/ru/teams/)
