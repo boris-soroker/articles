@@ -594,6 +594,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "otr",
+                            "title": "Режим «Без записи»"
+                        },
+                        {
+                            "type": "page",
                             "src": "editing",
                             "title": "Редактирование"
                         },
