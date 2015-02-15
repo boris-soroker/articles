@@ -419,11 +419,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "integrations",
-                            "title": "Интеграции"
-                        },
-                        {
-                            "type": "page",
                             "src": "api",
                             "title": "Информация об API"
                         }
@@ -472,18 +467,6 @@
                             "title": "Интеграция с UberConference"
                         }
                     ]
-                },
-                {
-                    "type": "category",
-                    "src": "fun",
-                    "title": "Развлечения",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "Интеграция с IFTTT "
-                        }
-                    ]  
                 },
                 {
                     "type": "category",
@@ -556,6 +539,16 @@
                             "type": "page",
                             "src": "audit-log-integration",
                             "title": "Интеграция с журналом аудитора"
+                        },
+                        {
+                            "type": "page",
+                            "src": "integrations",
+                            "title": "Интеграции"
+                        },
+                        {
+                            "type": "page",
+                            "src": "ifttt-integration",
+                            "title": "Интеграция с IFTTT "
                         }
                     ]
                 },
