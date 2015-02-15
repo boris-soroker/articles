@@ -1,9 +1,9 @@
 ***
 
- - [Как пользователь может увидеть карточку участника в ростере](/articles/ru/general/profile-cards#how-to-see-a-profile-card)
- - [Как распознать админа](/articles/ru/general/profile-cards#how-to-spot-an-admin)
- - [Как пользователь может увидеть свой профиль](/articles/ru/general/profile-cards#how-a-user-can-see-his-profile)
- - [Как пользователь может изменить свой профиль](/articles/ru/general/profile-cards#how-a-user-can-update-his-profile)
+ - [Как пользователь может увидеть карточку участника в ростере](/articles/ru/members/profile-cards#how-to-see-a-profile-card)
+ - [Как распознать админа](/articles/ru/members/profile-cards#how-to-spot-an-admin)
+ - [Как пользователь может увидеть свой профиль](/articles/ru/members/profile-cards#how-a-user-can-see-his-profile)
+ - [Как пользователь может изменить свой профиль](/articles/ru/members/profile-cards#how-a-user-can-update-his-profile)
 
 ### <a href="#how-to-see-a-profile-card" name="how-to-see-a-profile-card">Как пользователь может увидеть карточку участника в ростере</a>
 
