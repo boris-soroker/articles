@@ -547,6 +547,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "pin",
+                            "title": "Закрепление комнат"
+                        },
+                        {
+                            "type": "page",
                             "src": "room-drag-n-drop",
                             "title": "Перестановка комнат"
                         },
