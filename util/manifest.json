@@ -368,11 +368,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "profile-cards",
-                            "title": "Карточка участника"
-                        },
-                        {
-                            "type": "page",
                             "src": "global-search",
                             "title": "Глобальный поиск"
                         },
