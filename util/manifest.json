@@ -419,11 +419,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "m-for-markdown",
-                            "title": "Режим Markdown"
-                        },
-                        {
-                            "type": "page",
                             "src": "keyboard-control",
                             "title": "Клавиатурный контроль"
                         },
@@ -588,6 +583,11 @@
                             "type": "page",
                             "src": "formatting",
                             "title": "Форматирование"
+                        },
+                        {
+                            "type": "page",
+                            "src": "markdown",
+                            "title": "Режим Markdown"
                         },
                         {
                             "type": "page",
