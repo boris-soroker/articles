@@ -496,7 +496,7 @@
                         {
                             "type": "page",
                             "src": "statuses",
-                            "title": "Статусы активности"
+                            "title": "Статус"
                         },
                         {
                             "type": "page",
@@ -566,6 +566,11 @@
                             "type": "page",
                             "src": "creating",
                             "title": "Создание"
+                        },
+                        {
+                            "type": "page",
+                            "src": "new-line",
+                            "title": "Новая строка"
                         },
                         {
                             "type": "page",
