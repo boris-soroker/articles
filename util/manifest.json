@@ -348,11 +348,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "global-search",
-                            "title": "Глобальный поиск"
-                        },
-                        {
-                            "type": "page",
                             "src": "faq",
                             "title": "Часто задаваемые вопросы"
                         }
@@ -404,6 +399,11 @@
                             "type": "page",
                             "src": "claiming-domains",
                             "title": "Захват доменного имени"
+                        },
+                        {
+                            "type": "page",
+                            "src": "global-search",
+                            "title": "Глобальный поиск"
                         }
                     ]
                 },
