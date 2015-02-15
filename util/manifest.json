@@ -402,6 +402,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "multiple-teams",
+                            "title": "Работа в нескольких командах"
+                        },
+                        {
+                            "type": "page",
                             "src": "global-search",
                             "title": "Глобальный поиск"
                         }
