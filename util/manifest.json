@@ -480,11 +480,6 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "emoji-support",
-                            "title": "Поддержка смайликов"
-                        },
-                        {
-                            "type": "page",
                             "src": "ifttt-integration",
                             "title": "Интеграция с IFTTT "
                         }
