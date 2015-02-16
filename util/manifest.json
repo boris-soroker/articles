@@ -486,6 +486,33 @@
                 },
                 {
                     "type": "category",
+                    "src": "notifications",
+                    "title": "Уведомления",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "noise-control",
+                            "title": "Управление информационным шумом"
+                        },
+                        {
+                            "type": "page",
+                            "src": "audio-notifications",
+                            "title": "Звуковые уведомления"
+                        },
+                        {
+                            "type": "page",
+                            "src": "auto-hide-notifications",
+                            "title": "Прячем всплывающие уведомления на десктопе"
+                        },
+                        {
+                            "type": "page",
+                            "src": "group-mentions",
+                            "title": "Упоминания группы"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
                     "src": "messages",
                     "title": "Сообщения",
                     "entities": [
@@ -543,36 +570,14 @@
                 },
                 {
                     "type": "category",
-                    "src": "notifications",
-                    "title": "Упоминания и уведомления",
+                    "src": "extra",
+                    "title": "Дополнительные возможности",
                     "entities": [
                         {
                             "type": "page",
-                            "src": "noise-control",
-                            "title": "Управление информационным шумом"
+                            "src": "voice-video",
+                            "title": "Аудио и видео"
                         },
-                        {
-                            "type": "page",
-                            "src": "audio-notifications",
-                            "title": "Звуковые уведомления"
-                        },
-                        {
-                            "type": "page",
-                            "src": "auto-hide-notifications",
-                            "title": "Прячем всплывающие уведомления на десктопе"
-                        },
-                        {
-                            "type": "page",
-                            "src": "group-mentions",
-                            "title": "Упоминания группы"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "power-users",
-                    "title": "Для продвинутых пользователей",
-                    "entities": [
                         {
                             "type": "page",
                             "src": "keyboard-control",
@@ -580,52 +585,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "api",
-                            "title": "Информация об API"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "kato-apps",
-                    "title": "Kato-приложения",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "desktop",
-                            "title": "Kato-приложения для десктопов"
-                        },
-                        {
-                            "type": "page",
-                            "src": "mobile",
-                            "title": "Мобильные Kato-приложения"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "voice-video",
-                    "title": "Аудио и видео",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "video-voice-calling",
-                            "title": "Видео-звонки и аудио-звонки"
-                        },
-                        {
-                            "type": "page",
-                            "src": "screensharing",
-                            "title": "Демонстрация экрана"
-                        },
-                        {
-                            "type": "page",
-                            "src": "google-hangouts-integration",
-                            "title": "Интеграция с Google Hangouts"
-                        },
-                        {
-                            "type": "page",
-                            "src": "uberconference-integration",
-                            "title": "Интеграция с UberConference"
+                            "src": "apps",
+                            "title": "Kato-приложения"
                         }
                     ]
                 }
