@@ -548,6 +548,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "message-cards",
+                            "title": "Карточки сообщений"
+                        },
+                        {
+                            "type": "page",
                             "src": "emoji-support",
                             "title": "Поддержка смайликов"
                         }
