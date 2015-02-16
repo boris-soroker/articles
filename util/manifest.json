@@ -580,6 +580,18 @@
                         }
                     ]
                 }
+                {
+                    "type": "category",
+                    "src": "faq",
+                    "title": "Часто задаваемые вопросы",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "list",
+                            "title": "Полный список"
+                        }
+                    ]
+                }
             ]
         }
     ]
