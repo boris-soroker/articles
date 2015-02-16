@@ -333,6 +333,11 @@
                     "entities": [
                         {
                             "type": "page",
+                            "src": "conspectus",
+                            "title": "Что такое Kato"
+                        },
+                        {
+                            "type": "page",
                             "src": "notation",
                             "title": "Как читать этот документ"
                         },
@@ -343,40 +348,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "cheatsheet",
-                            "title": "Шпаргалка"
-                        },
-                        {
-                            "type": "page",
                             "src": "faq",
                             "title": "Часто задаваемые вопросы"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "notifications",
-                    "title": "Упоминания и уведомления",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "noise-control",
-                            "title": "Управление информационным шумом"
-                        },
-                        {
-                            "type": "page",
-                            "src": "audio-notifications",
-                            "title": "Звуковые уведомления"
-                        },
-                        {
-                            "type": "page",
-                            "src": "auto-hide-notifications",
-                            "title": "Прячем всплывающие уведомления на десктопе"
-                        },
-                        {
-                            "type": "page",
-                            "src": "group-mentions",
-                            "title": "Упоминания группы"
                         }
                     ]
                 },
@@ -409,67 +382,6 @@
                             "type": "page",
                             "src": "global-search",
                             "title": "Глобальный поиск"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "power-users",
-                    "title": "Для продвинутых пользователей",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "keyboard-control",
-                            "title": "Клавиатурный контроль"
-                        },
-                        {
-                            "type": "page",
-                            "src": "api",
-                            "title": "Информация об API"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "kato-apps",
-                    "title": "Kato-приложения",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "desktop",
-                            "title": "Kato-приложения для десктопов"
-                        },
-                        {
-                            "type": "page",
-                            "src": "mobile",
-                            "title": "Мобильные Kato-приложения"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "src": "voice-video",
-                    "title": "Аудио и видео",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "video-voice-calling",
-                            "title": "Видео-звонки и аудио-звонки"
-                        },
-                        {
-                            "type": "page",
-                            "src": "screensharing",
-                            "title": "Демонстрация экрана"
-                        },
-                        {
-                            "type": "page",
-                            "src": "google-hangouts-integration",
-                            "title": "Интеграция с Google Hangouts"
-                        },
-                        {
-                            "type": "page",
-                            "src": "uberconference-integration",
-                            "title": "Интеграция с UberConference"
                         }
                     ]
                 },
@@ -626,6 +538,94 @@
                             "type": "page",
                             "src": "emoji-support",
                             "title": "Поддержка смайликов"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "notifications",
+                    "title": "Упоминания и уведомления",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "noise-control",
+                            "title": "Управление информационным шумом"
+                        },
+                        {
+                            "type": "page",
+                            "src": "audio-notifications",
+                            "title": "Звуковые уведомления"
+                        },
+                        {
+                            "type": "page",
+                            "src": "auto-hide-notifications",
+                            "title": "Прячем всплывающие уведомления на десктопе"
+                        },
+                        {
+                            "type": "page",
+                            "src": "group-mentions",
+                            "title": "Упоминания группы"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "power-users",
+                    "title": "Для продвинутых пользователей",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "keyboard-control",
+                            "title": "Клавиатурный контроль"
+                        },
+                        {
+                            "type": "page",
+                            "src": "api",
+                            "title": "Информация об API"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "kato-apps",
+                    "title": "Kato-приложения",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "desktop",
+                            "title": "Kato-приложения для десктопов"
+                        },
+                        {
+                            "type": "page",
+                            "src": "mobile",
+                            "title": "Мобильные Kato-приложения"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "src": "voice-video",
+                    "title": "Аудио и видео",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "video-voice-calling",
+                            "title": "Видео-звонки и аудио-звонки"
+                        },
+                        {
+                            "type": "page",
+                            "src": "screensharing",
+                            "title": "Демонстрация экрана"
+                        },
+                        {
+                            "type": "page",
+                            "src": "google-hangouts-integration",
+                            "title": "Интеграция с Google Hangouts"
+                        },
+                        {
+                            "type": "page",
+                            "src": "uberconference-integration",
+                            "title": "Интеграция с UberConference"
                         }
                     ]
                 }
