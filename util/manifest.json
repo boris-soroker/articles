@@ -392,23 +392,8 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "member-types",
-                            "title": "Типы участников"
-                        },
-                        {
-                            "type": "page",
-                            "src": "admins",
-                            "title": "Админы"
-                        },
-                        {
-                            "type": "page",
-                            "src": "unrestricted-members",
-                            "title": "Участники со стандартным доступом"
-                        },
-                        {
-                            "type": "page",
-                            "src": "restricted-members",
-                            "title": "Участники с ограниченным доступом"
+                            "src": "roles",
+                            "title": "Роли"
                         },
                         {
                             "type": "page",
