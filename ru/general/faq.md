@@ -10,4 +10,4 @@
  - [Как узнать, кто является админом в моей команде?](/articles/ru/faq/how-to-recognize-an-admin)
  - [Как пользователь может узнать, является ли он админом?](/articles/ru/faq/how-get-your-own-role)
  - [Как удалить сообщение?](/articles/ru/faq/how-to-delete-a-message)
- - [TEST](/articles/ru/faq-1/how-1)
+
