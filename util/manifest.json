@@ -424,26 +424,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "dialog-rooms",
-                            "title": "Комнаты 1:1"
-                        },
-                        {
-                            "type": "page",
-                            "src": "unrestricted-rooms",
-                            "title": "Общедоступные комнаты"
-                        },
-                        {
-                            "type": "page",
-                            "src": "restricted-rooms",
-                            "title": "Защищённые комнаты"
-                        },
-                        {
-                            "type": "page",
-                            "src": "support-room",
-                            "title": "Комната поддержки"
-                        },
-                        {
-                            "type": "page",
                             "src": "pin",
                             "title": "Закрепление комнат"
                         },
