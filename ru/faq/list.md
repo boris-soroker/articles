@@ -34,3 +34,8 @@
 С точки зрения _Шарика_ (который является участником со стандартным доступом) список доступа для этой же защищённой комнаты _Финансы_ выглядит так:
 
 ![clip.png](https://in.kato.im/a03237c9b73a6102c2fe094a6f8ca6136bcdd3087ec66bf6babc1ef1c7a87dc0/clip.png)
+
+### <a href="#how-to-recognize-an-admin" name="how-to-recognize-an-admin">Как узнать, кто является админом в моей команде?</a>
+
+Смотрите ответ [здесь](/articles/ru/general/profile-cards#how-to-spot-an-admin).
+
