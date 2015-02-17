@@ -345,11 +345,6 @@
                             "type": "page",
                             "src": "dictionary",
                             "title": "Словарик"
-                        },
-                        {
-                            "type": "page",
-                            "src": "faq",
-                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
