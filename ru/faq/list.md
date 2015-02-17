@@ -5,12 +5,11 @@
 
 Зелёные стрелки на снимках означают «кликните сюда». Светло-коричневые прямоугольные рамки на снимках обозначают участок снимка, на который следует обратить особое внимание.
 
- - [Как пригласить нового участника в команду?](/articles/ru/faq#how-to-invite-a-new-team-member)
-
- - [Как узнать, кто находится в данной комнате?](/articles/ru/faq/how-do-I-see-who-is-in-a-room)
- - [Как узнать, кто является админом в моей команде?](/articles/ru/faq/how-to-recognize-an-admin)
- - [Как пользователь может узнать, является ли он админом?](/articles/ru/faq/how-get-your-own-role)
- - [Как удалить сообщение?](/articles/ru/faq/how-to-delete-a-message)
+ - [Как пригласить нового участника в команду?](/articles/ru/faq/list#how-to-invite-a-new-team-member)
+ - [Как узнать, кто находится в данной комнате?](/articles/ru/faq/list#how-do-I-see-who-is-in-a-room)
+ - [Как узнать, кто является админом в моей команде?](/articles/ru/faq/list#how-to-recognize-an-admin)
+ - [Как пользователь может узнать, является ли он админом?](/articles/ru/faq/list#how-get-your-own-role)
+ - [Как удалить сообщение?](/articles/ru/faq/list#how-to-delete-a-message)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
