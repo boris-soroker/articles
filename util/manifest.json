@@ -466,6 +466,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "group-mentions",
+                            "title": "Упоминания группы"
+                        },
+                        {
+                            "type": "page",
                             "src": "audio-notifications",
                             "title": "Звуковые уведомления"
                         },
@@ -473,11 +478,6 @@
                             "type": "page",
                             "src": "auto-hide-notifications",
                             "title": "Прячем всплывающие уведомления на десктопе"
-                        },
-                        {
-                            "type": "page",
-                            "src": "group-mentions",
-                            "title": "Упоминания группы"
                         },
                         {
                             "type": "page",
