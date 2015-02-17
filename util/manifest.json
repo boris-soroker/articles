@@ -365,11 +365,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "claiming-domains",
-                            "title": "Захват доменного имени"
-                        },
-                        {
-                            "type": "page",
                             "src": "multiple-teams",
                             "title": "Работа в нескольких командах"
                         },
