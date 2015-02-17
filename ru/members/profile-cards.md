@@ -13,7 +13,7 @@
 
 ![clip.png](https://in.kato.im/e4cac3f49313c351a31b1ac2a01087c053bfbcd8621b412ba0a4552af975b2fd/clip.png)
 
-При клике на шпалы отображается **карточка участника**:
+При клике на шпалы открывается **карточка участника**:
 
 ![clip.png](https://in.kato.im/50855ee7c3751df6b0434f035e4e49f9d69531367f143c2badc196f8f2004c0/clip.png)
 
