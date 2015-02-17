@@ -355,8 +355,18 @@
                     "entities": [
                         {
                             "type": "page",
+                            "src": "multiple-teams",
+                            "title": "Работа в нескольких командах"
+                        },
+                        {
+                            "type": "page",
                             "src": "who-owns-your-messages",
                             "title": "Кому принадлежат сообщения"
+                        },
+                        {
+                            "type": "page",
+                            "src": "global-search",
+                            "title": "Глобальный поиск"
                         },
                         {
                             "type": "page",
@@ -365,13 +375,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "multiple-teams",
-                            "title": "Работа в нескольких командах"
-                        },
-                        {
-                            "type": "page",
-                            "src": "global-search",
-                            "title": "Глобальный поиск"
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
@@ -429,18 +434,23 @@
                         },
                         {
                             "type": "page",
-                            "src": "audit-log-integration",
-                            "title": "Интеграция с журналом аудита"
-                        },
-                        {
-                            "type": "page",
                             "src": "integrations",
                             "title": "Интеграции"
                         },
                         {
                             "type": "page",
+                            "src": "audit-log-integration",
+                            "title": "Интеграция с журналом аудита"
+                        },
+                        {
+                            "type": "page",
                             "src": "ifttt-integration",
                             "title": "Интеграция с IFTTT "
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
@@ -468,6 +478,11 @@
                             "type": "page",
                             "src": "group-mentions",
                             "title": "Упоминания группы"
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
@@ -530,6 +545,11 @@
                             "type": "page",
                             "src": "emoji-support",
                             "title": "Поддержка смайликов"
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
@@ -552,6 +572,11 @@
                             "type": "page",
                             "src": "apps",
                             "title": "Kato-приложения"
+                        },
+                        {
+                            "type": "page",
+                            "src": "faq",
+                            "title": "Часто задаваемые вопросы"
                         }
                     ]
                 },
