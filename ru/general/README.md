@@ -6,13 +6,7 @@
 
 Также имеет смысл внимательно прочитать раздел о различных [типах комнат](/articles/ru/general/room-types).
 
+## [Что такое Kato](/articles/ru/general/conspectus)
 ## [Как читать этот документ](/articles/ru/general/notation)
 ## [Словарик](/articles/ru/general/dictionary)
-## [Шпаргалка](/articles/ru/general/cheatsheet)
-## [Редактирование сообщений](/articles/ru/general/editing-messages)
-## [Длинные сообщения](/articles/ru/general/long-messages)
-## [Типы комнат](/articles/ru/general/room-types)
-## [Перестановка комнат](/articles/ru/general/room-drag-n-drop)
-## [Карточка участника](/articles/ru/general/profile-cards)
-## [Глобальный поиск](/articles/ru/general/global-search)
 ## [Часто задаваемые вопросы](/articles/ru/general/faq)
