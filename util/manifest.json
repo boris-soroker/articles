@@ -498,11 +498,6 @@
                         },
                         {
                             "type": "page",
-                            "src": "new-line",
-                            "title": "Новая строка"
-                        },
-                        {
-                            "type": "page",
                             "src": "formatting",
                             "title": "Форматирование"
                         },
@@ -515,6 +510,11 @@
                             "type": "page",
                             "src": "markdown",
                             "title": "Режим Markdown"
+                        },
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Поддержка смайликов"
                         },
                         {
                             "type": "page",
@@ -540,11 +540,6 @@
                             "type": "page",
                             "src": "message-cards",
                             "title": "Карточки сообщений"
-                        },
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Поддержка смайликов"
                         },
                         {
                             "type": "page",
