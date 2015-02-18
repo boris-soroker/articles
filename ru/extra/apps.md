@@ -1,5 +1,15 @@
 ***
 
+С помощью мобильных приложений Kato пользователи могут общаться с членами своей команды не только с компьютера, но и со смартфонов. Благодаря push-оповещениям, пользователь всегда будет в курсе новых сообщений в комнатах 1-1 или тех комнатах, на которые он [подписан](/articles/ru/notifications/noise-control).
+
+## Android
+
+- <a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">Android</a>
+
+## iOS
+
+- <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">iOS</a>
+
 ## Приложение для OS X (обёртка вокруг Safari)
 
 Скачать это приложение можно [здесь](http://labs.kato.im/Kato.pkg)).
@@ -25,11 +35,3 @@
  - Выбрать пункт **«Создать ярлык приложения»** (**Create application shortcuts**).
  - В появившемся диалоговом окне необходимо выбрать место, куда будет сохранен ярлык для быстроого запуска приложения. 
  - Далее следует создать этот ярылк с помощью соответствующей команды (**Create**).
-
-## iOS
-
-- <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">iOS</a>
-
-## Android
-
-- <a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">Android</a>
