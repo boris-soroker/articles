@@ -34,7 +34,7 @@
 
 ### <a href="#windows" name="windows">Windows</a>
 
-Ниже приведена последовательность действий для создания Chrome Shortcut:
+Ниже приведена последовательность действий для создания Chrome shortcut:
 
 (1) В браузере Chrome следует зайти на [https://app.kato.im](https://app.kato.im).
 
