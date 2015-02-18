@@ -376,7 +376,7 @@
                         {
                             "type": "page",
                             "src": "faq-teams",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -408,7 +408,7 @@
                         {
                             "type": "page",
                             "src": "faq-members",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -450,7 +450,7 @@
                         {
                             "type": "page",
                             "src": "faq-rooms",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -482,7 +482,7 @@
                         {
                             "type": "page",
                             "src": "faq-notifications",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -544,7 +544,7 @@
                         {
                             "type": "page",
                             "src": "faq-messages",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
@@ -571,14 +571,14 @@
                         {
                             "type": "page",
                             "src": "faq-extra",
-                            "title": "ЧЗВ"
+                            "title": "FAQ"
                         }
                     ]
                 },
                 {
                     "type": "category",
                     "src": "faq",
-                    "title": "ЧЗВ",
+                    "title": "FAQ",
                     "entities": [
                         {
                             "type": "page",
