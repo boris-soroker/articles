@@ -1,16 +1,23 @@
 ***
 
+ - [Android](/articles/ru/extra/apps#android)
+ - [iOS](/articles/ru/extra/apps#ios)
+ - [OS X](/articles/ru/extra/apps#osx)
+ - [Windows](/articles/ru/extra/apps#windows)
+
 С помощью мобильных приложений Kato пользователи могут общаться с членами своей команды не только с компьютера, но и со смартфонов. Благодаря push-оповещениям, пользователь всегда будет в курсе новых сообщений в комнатах 1-1 или тех комнатах, на которые он [подписан](/articles/ru/notifications/noise-control).
 
-## Android
+### <a href="#android" name="android">Android</a>
 
-- <a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">Android</a>
+<a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">Ссылка на Google Play</a>
 
-## iOS
+### <a href="#ios" name="ios">iOS</a>
 
-- <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">Ссылка на Apple Apps Store</a>
 
-## Приложение для OS X (обёртка вокруг Safari)
+### <a href="#osx" name="osx">OS X</a>
+
+Обёртка вокруг Safari.
 
 Скачать это приложение можно [здесь](http://labs.kato.im/Kato.pkg)).
 
@@ -27,7 +34,9 @@
 
 Приложение для OS X является экспериментальным и им можно пользоваться только на свой страх и риск. Если вы заметили какую-то ошибку в его работе, обязательно сообщите нам, но мы не гарантируем ее устранения.
 
-## Windows (Chrome Shortcut)
+### <a href="#windows" name="windows">Windows</a>
+
+Chrome Shortcut.
 
  - В браузере Chrome нужно зайти на [https://app.kato.im](https://app.kato.im).
  - Выбрать меню настроек в тулбаре браузера.
