@@ -407,7 +407,7 @@
                         },
                         {
                             "type": "page",
-                            "src": "faq",
+                            "src": "faq-members",
                             "title": "ЧЗВ"
                         }
                     ]
@@ -449,7 +449,7 @@
                         },
                         {
                             "type": "page",
-                            "src": "faq",
+                            "src": "faq-rooms",
                             "title": "ЧЗВ"
                         }
                     ]
@@ -481,7 +481,7 @@
                         },
                         {
                             "type": "page",
-                            "src": "faq",
+                            "src": "faq-notifications",
                             "title": "ЧЗВ"
                         }
                     ]
@@ -543,7 +543,7 @@
                         },
                         {
                             "type": "page",
-                            "src": "faq",
+                            "src": "faq-messages",
                             "title": "ЧЗВ"
                         }
                     ]
@@ -570,7 +570,7 @@
                         },
                         {
                             "type": "page",
-                            "src": "faq",
+                            "src": "faq-extra",
                             "title": "ЧЗВ"
                         }
                     ]
