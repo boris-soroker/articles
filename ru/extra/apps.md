@@ -13,7 +13,7 @@
 
 ### <a href="#ios" name="ios">iOS</a>
 
-Ссылка на Apple Apps Store <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">здесь</a>.
+Ссылка на Apple App Store <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">здесь</a>.
 
 ### <a href="#osx" name="osx">OS X</a>
 
