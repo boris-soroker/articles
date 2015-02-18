@@ -7,15 +7,15 @@
  - [OS X](/articles/ru/extra/apps#osx) - обёртка вокруг Safari. 
  - [Windows](/articles/ru/extra/apps#windows) - ярлык приложения в браузере Chrome.
 
-### <a href="#android" name="android">Android</a>
+## <a href="#android" name="android">Android</a>
 
 Ссылка на Google Play <a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">здесь</a>.
 
-### <a href="#ios" name="ios">iOS</a>
+## <a href="#ios" name="ios">iOS</a>
 
 Ссылка на Apple App Store <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">здесь</a>.
 
-### <a href="#osx" name="osx">OS X</a>
+## <a href="#osx" name="osx">OS X</a>
 
 Скачать это приложение можно, кликнув [здесь](http://labs.kato.im/Kato.pkg).
 
@@ -32,7 +32,7 @@
  - В доке ("Dock") отображается число непрочитанных требующих внимания сообщений.
  - Для открытия и закрытия приложения можно использовать "command+tab".
 
-### <a href="#windows" name="windows">Windows</a>
+## <a href="#windows" name="windows">Windows</a>
 
 Ниже приведена последовательность действий для создания Chrome shortcut:
 
