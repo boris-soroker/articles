@@ -6,4 +6,4 @@
  - [Упоминание группы](/articles/ru/notifications/group-mentions) - рассматривается функциональность упоминания комнат.
  - [Звуковые уведомления](/articles/ru/notifications/audio-notifications) - рассматривается функциональность звуковых уведомлений.
  - [Прячем всплывающие уведомления на десктопе](/articles/ru/notifications/auto-hide-notifications) - об одной настройке в учётной записи.
- - [ЧЗВ](/articles/ru/notifications/faq-notifications) (часто задаваемые вопросы) - подмножество из полного списка, относящееся к данному разделу.
+ - [FAQ](/articles/ru/notifications/faq-notifications) (часто задаваемые вопросы) - подмножество из полного списка, относящееся к данному разделу.
