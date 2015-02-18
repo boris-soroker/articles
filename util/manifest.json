@@ -570,6 +570,11 @@
                         },
                         {
                             "type": "page",
+                            "src": "api",
+                            "title": "API"
+                        },
+                        {
+                            "type": "page",
                             "src": "faq-extra",
                             "title": "FAQ"
                         }
