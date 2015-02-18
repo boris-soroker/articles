@@ -1,6 +1,6 @@
 ***
 
-В данный момент, помимо веб-версии по адресу  [https://app.kato.im](https://app.kato.im), доступны следующие Kato-приложения:
+В данный момент, помимо веб-версии по адресу  [https://app.kato.im](https://app.kato.im), доступны следующие **Kato-приложения**:
 
  - [Android](/articles/ru/extra/apps#android) - мобильное Kato-приложение из Google Play.
  - [iOS](/articles/ru/extra/apps#ios) - мобильное Kato-приложение из Apple App Store.
