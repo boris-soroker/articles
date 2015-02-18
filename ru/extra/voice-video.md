@@ -1,5 +1,13 @@
 ***
 
+ - Аудио-конференции
+ - Видео-конференции
+ - Демонстрация экрана
+ - Интеграция с Google Hangout
+ - Интеграция с UberConference
+
+***
+
 В мессенджере Kato реализована функция аудио- и видеозвонков:
 
 <iframe src="//player.vimeo.com/video/82638945?title=0&amp;byline=0&amp;portrait=0" width="712" height="401" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
