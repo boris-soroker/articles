@@ -1,11 +1,11 @@
 ***
 
- - [Android](/articles/ru/extra/apps#android)
- - [iOS](/articles/ru/extra/apps#ios)
- - [OS X](/articles/ru/extra/apps#osx)
- - [Windows](/articles/ru/extra/apps#windows)
+В данный момент, помимо веб-версии по адресу  [https://app.kato.im](https://app.kato.im), доступны следующие Kato-приложения:
 
-С помощью мобильных приложений Kato пользователи могут общаться с членами своей команды не только с компьютера, но и со смартфонов. Благодаря push-оповещениям, пользователь всегда будет в курсе новых сообщений в комнатах 1-1 или тех комнатах, на которые он [подписан](/articles/ru/notifications/noise-control).
+ - [Android](/articles/ru/extra/apps#android) - мобильное Kato-приложение из Google Play.
+ - [iOS](/articles/ru/extra/apps#ios) - мобильное Kato-приложение из Apple App Store.
+ - [OS X](/articles/ru/extra/apps#osx) - обёртка вокруг Safari. 
+ - [Windows](/articles/ru/extra/apps#windows) - ярлык приложения в браузере Chrome.
 
 ### <a href="#android" name="android">Android</a>
 
@@ -19,7 +19,7 @@
 
 Скачать это приложение можно, кликнув [здесь](http://labs.kato.im/Kato.pkg).
 
-Приложение является обёрткой вокруг Safari и разработано с использованием технологии [MacGap](https://github.com/MacGapProject/MacGap1). 
+Приложение разработано с использованием технологии [MacGap](https://github.com/MacGapProject/MacGap1). 
 
 В нём известны несколько существенных (и неустранимых) проблем:
 
