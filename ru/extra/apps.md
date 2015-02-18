@@ -9,15 +9,15 @@
 
 ### <a href="#android" name="android">Android</a>
 
-<a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">Ссылка на Google Play</a>
+Ссылка на Google Play <a href="https://play.google.com/store/apps/details?id=im.kato" target="_blank">здесь</a>.
 
 ### <a href="#ios" name="ios">iOS</a>
 
-<a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">Ссылка на Apple Apps Store</a>
+Ссылка на Apple Apps Store <a href="https://itunes.apple.com/us/app/kato/id862791364" target="_blank">здесь</a>.
 
 ### <a href="#osx" name="osx">OS X</a>
 
-Скачать это приложение можно [здесь](http://labs.kato.im/Kato.pkg).
+Скачать это приложение можно, кликнув [здесь](http://labs.kato.im/Kato.pkg).
 
 Приложение является обёрткой вокруг Safari и разработано с использованием технологии [MacGap](https://github.com/MacGapProject/MacGap1). 
 
@@ -27,7 +27,7 @@
 - Отсутствует поддержка WebRTC, что не позволяет делать аудио- и видео-звонки, а также демонстрацию экрана.
 - Не поддерживается функциональность "copy-paste" для изображений (драматически упрощающая работу в Kato в браузерах Chrome и Firefox).
 
-Есть и неоспоримые плюсы: 
+Есть и некоторые плюсы: 
 
  - "Dock" отображает красные цифры оповещений.
  - Для открытия и закрытия приложения можно использовать "command+tab".
@@ -41,4 +41,4 @@
 (3) Выбрать секцию «Инструменты» ("Tools").
 (4) Выбрать пункт «Создать ярлык приложения» ("Create application shortcuts").
 (5) В появившемся диалоговом окне выбрать место, куда будет сохранен ярлык для быстроого запуска приложения. 
-(6) Создать этот ярылк с помощью соответствующей команды ("Create").
+(6) Создать этот ярлык с помощью соответствующей команды ("Create").
