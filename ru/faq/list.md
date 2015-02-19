@@ -13,6 +13,7 @@
  - [Как изменить цвет фона?](/articles/ru/faq/list#how-to-change-background-color)
  - [Как пользователь может узнать, включён ли у него клавиатурный контроль?](/articles/ru/faq/list#how-to-know-if-kc-is-on)
  - [Есть ли у админов доступ к моим комнатам 1:1?](/articles/ru/faq/list#do-admins-have-access-to-my-1-1-rooms)
+ - [Как создать новую строку в сообщении?](/articles/ru/faq/list#how-do-create-a-new-line)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -95,6 +96,11 @@
 
 Нет. Доступ к каждой комнате 1:1 имеется только у двух участников этого диалога. 
 
+### <a href="#how-do-create-a-new-line" name="how-do-create-a-new-line">Как создать новую строку в сообщении?</a>
+
+Комбинация "shift+return" создаёт новую строку в поле ввода в комнате:
+
+![clip.png](https://in.kato.im/88333d73b3320646d0f41560b224c7ea9cf4ab0859da170d62da24d02e642651/clip.png)
 
 
 
