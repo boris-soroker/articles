@@ -493,8 +493,8 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "creating",
-                            "title": "Создание"
+                            "src": "conspectus-messages",
+                            "title": "Обзор"
                         },
                         {
                             "type": "page",
