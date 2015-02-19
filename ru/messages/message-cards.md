@@ -2,11 +2,11 @@
 
 Если навести курсор мышки на какое-то сообщение в истории комнаты, то слева от этого сообщения появится напоминающая шпалы вертикальная полоса:
 
-![clip.png](https://in.kato.im/cd8eeefc547f1287411f102f8c911dbb1e386ad472bc21b9bd182124efe0eaca/clip.png)
+![clip.png](https://in.kato.im/7a1d28cf9692b599c054a2c6c58489a62ba130e8fb85dcce7d268c146f8630c2/clip.png)
 
 Клик на шпалы открывает так называемую **карточку сообщения** (по аналогии с [карточкой пользователя](/articles/ru/members/profile-cards)):
 
-![clip.png](https://in.kato.im/60f77af94e1ce07552b5255b1d4300f1fb8b07ec1fc60054104866ecb7aef6fb/clip.png)
+![clip.png](https://in.kato.im/fa656f625db95aee20616a7389778c76a40a38725e1d95fe8b9785055ec6b3a9/clip.png)
 
 Карточка сообщения содержит:
 
