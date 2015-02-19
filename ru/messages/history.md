@@ -21,3 +21,8 @@
 ![clip.png](https://in.kato.im/7a9801e88a270163b7a14bc83996fd9f8398c1935f8c5578b4b5083de30f71/clip.png)
 
 Клик на «шпалы» открывает **карточку сообщения**, подробно описанную [здесь](/articles/ru/members/profile-cards).
+
+Одинарный клик на текст сообщения выделяет сообщение:
+
+![clip.png](https://in.kato.im/7f453e3681f4e783982de8a5e8112ddf1408a2e437f9782fcf19244a81f935b/clip.png)
+
