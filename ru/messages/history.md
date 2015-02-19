@@ -26,3 +26,6 @@
 
 ![clip.png](https://in.kato.im/7f453e3681f4e783982de8a5e8112ddf1408a2e437f9782fcf19244a81f935b/clip.png)
 
+**Упоминания** могут быть частью сообщения:
+
+![clip.png](https://in.kato.im/46e81f16ffdd669a7277c6b3ff86694b8f11cfd9659a8b66eb8802158063f940/clip.png)
