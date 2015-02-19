@@ -24,7 +24,7 @@
 
 Для длинных сообщений существуют особые [правила](/articles/ru/messages/long):
 
-! [clip.png](https://in.kato.im/bcc1ce42f8b60b09d6210b0b4c9abdbd411528bfca19915fbea526f3407ffbac/clip.png)
+![clip.png](https://in.kato.im/bcc1ce42f8b60b09d6210b0b4c9abdbd411528bfca19915fbea526f3407ffbac/clip.png)
  
 Для вставки в создаваемое (или редактируемое) сообщение новой строки следует нажать комбинацию клавиш "shift+return".
 
