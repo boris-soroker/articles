@@ -12,6 +12,7 @@
  - [Как удалить сообщение?](/articles/ru/faq/list#how-to-delete-a-message)
  - [Как изменить цвет фона?](/articles/ru/faq/list#how-to-change-background-color)
  - [Как пользователь может узнать, включён ли у него клавиатурный контроль?](/articles/ru/faq/list#how-to-know-if-kc-is-on)
+ - [Есть ли у админов доступ к моим комнатам 1:1?](/articles/ru/faq/list#do-admins-have-access-to-my-1-1-rooms)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -92,6 +93,9 @@
 
 ![clip.png](https://in.kato.im/cd773f26f2eb227524b259ee267b24d88e586cdaeaffea9edbcf5b7429cbfa/clip.png)
 
+### <a href="#do-admins-have-access-to-my-1-1-rooms" name="do-admins-have-access-to-my-1-1-rooms">Есть ли у админов доступ к моим комнатам 1:1?</a>
+
+Нет. Доступ к каждой комнате 1:1 имеется только у двух участников этого диалога. 
 
 
 
