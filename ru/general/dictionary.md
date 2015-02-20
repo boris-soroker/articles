@@ -9,6 +9,7 @@
 ## <a href="#ru-en" name="ru-en">Русский `>>` English `>>` ссылка</a>
 
  - Админ команды `>>` Team admin `>>` [ссылка](/articles/ru/teams/)
+ - Анонс `>>` Preview `>>` [ссылка](/articles/ru/teams/)
  - Без записи `>>` Off The Record `>>` [ссылка](/articles/ru/teams/)
  - Вход `>>` Sign in `>>` [ссылка](/articles/ru/teams/)
  - Выход `>>` Sign out `>>` [ссылка](/articles/ru/teams/)
@@ -104,6 +105,7 @@
  - Notification `>>` Уведомление `>>` [ссылка](/articles/ru/teams/)
  - Off The Record `>>` Без записи `>>` [ссылка](/articles/ru/teams/)
  - People `>>` Участники `>>` [ссылка](/articles/ru/teams/)
+ - Preview `>>` Анонс `>>` [ссылка](/articles/ru/teams/)
  - Profile `>>` Профиль `>>` [ссылка](/articles/ru/teams/)
  - Profile card `>>` Карточка участника `>>` [ссылка](/articles/ru/teams/)
  - Railroad `>>` Шпалы `>>` [ссылка](/articles/ru/teams/)
