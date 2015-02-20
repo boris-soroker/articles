@@ -424,28 +424,13 @@
                         },
                         {
                             "type": "page",
-                            "src": "pin",
-                            "title": "Закрепление комнат"
-                        },
-                        {
-                            "type": "page",
-                            "src": "room-drag-n-drop",
-                            "title": "Перестановка комнат"
+                            "src": "operations",
+                            "title": "Операции над комнатами"
                         },
                         {
                             "type": "page",
                             "src": "integrations",
                             "title": "Интеграции"
-                        },
-                        {
-                            "type": "page",
-                            "src": "audit-log-integration",
-                            "title": "Интеграция с журналом аудита"
-                        },
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "Интеграция с IFTTT "
                         },
                         {
                             "type": "page",
