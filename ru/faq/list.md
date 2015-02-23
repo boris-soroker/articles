@@ -19,6 +19,7 @@
  - [Как закрепить открытую комнату?](/articles/ru/faq/list#how-to-pin-open-room)
  - [Как поменять порядок открытых комнат?](/articles/ru/faq/list#how-to-move-open-room)
  - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
+ - [Как загрузить историю открытой комнаты в файл??](/articles/ru/faq/list#how-to-download-room-history)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
