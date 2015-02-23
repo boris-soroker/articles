@@ -4,7 +4,7 @@
 
  - [Открытие](/articles/ru/faq/list#how-to-open-1-1).
  - [Закрытие](/articles/ru/faq/list#how-to-close-open-room).
- - Закрепление.
+ - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room).
  - Перемещение.
  - Поиск в истории текстовой строки, задаваемой данным пользователем.
  - Загрузка истории в виде файла.
