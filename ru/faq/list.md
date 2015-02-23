@@ -18,6 +18,7 @@
  - [Как закрыть открытую комнату?](/articles/ru/faq/list#how-to-close-open-room)
  - [Как закрепить открытую комнату?](/articles/ru/faq/list#how-to-pin-open-room)
  - [Как поменять порядок открытых комнат?](/articles/ru/faq/list#how-to-move-open-room)
+ - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -156,5 +157,21 @@
 
 Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
 
+### <a href="#how-to-search-open-room" name="how-to-search-open-room">Как искать текст в истории комнаты?</a>
 
+Клик на иконку «гамбургер» в заголовке открытой комнаты любого типа открывает меню, содержащее опцию "Search this room":
+
+![clip.png](https://in.kato.im/9ed1314d6e4ca2645859f6d36a964825e8c2f2692caea5c36cd35b96617663/clip.png)
+
+Клик на эту опцию открывает интерфейс **поиска в комнате**:
+
+![clip.png](https://in.kato.im/674301f2bf2a4835bc746ed6e66ffe81918a316e84b1b5af921810a97ad14bce/clip.png)
+
+Задавая текст поиска, в интерфейсе поиска можно видеть результаты поиска:
+
+![clip.png](https://in.kato.im/b1115c86c658cade7a86493f8025ed474f9b6b70b9db96c9d400250c4b2146fb/clip.png)
+
+Закрыть интерфейс поиска можно, кликнув на иконку «шеврон» в интерфейсе поиска.   
+
+Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
 
