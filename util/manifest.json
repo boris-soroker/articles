@@ -424,8 +424,18 @@
                         },
                         {
                             "type": "page",
-                            "src": "operations",
-                            "title": "Операции над комнатами"
+                            "src": "operations-1-1",
+                            "title": "Операции над комнатами 1:1"
+                        },
+                        {
+                            "type": "page",
+                            "src": "operations-unrestricted",
+                            "title": "Операции над общедоступными комнатами"
+                        },
+                        {
+                            "type": "page",
+                            "src": "operations-restricted",
+                            "title": "Операции над защищёнными комнатами"
                         },
                         {
                             "type": "page",
