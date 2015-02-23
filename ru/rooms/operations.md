@@ -11,12 +11,12 @@
 
 **Участник с ограниченным доступом** может выполнять следующие операции с каждой комнатой 1:1, к которой у него есть доступ:
 
- - [Открытие](/articles/ru/faq/list#how-to-open-1-1) комнаты.
- - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой комнаты.
- - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой комнаты.
- - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой комнаты.
- - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой комнаты.
- - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) открытой комнаты в виде файла.
+ - [Открытие](/articles/ru/faq/list#how-to-open-1-1) комнаты 1:1.
+ - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой комнаты 1:1.
+ - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой комнаты 1:1.
+ - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой комнаты 1:1.
+ - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой комнаты 1:1.
+ - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) открытой комнаты 1:1 в виде файла.
 
 **Участник со стандартным доступом** в каждой комнате 1:1, к которой у него есть доступ, может выполнять все операции, разрешённые участнику с **ограниченным** доступом. Кроме того, участник со стандартным доступом может осуществлять:
 
