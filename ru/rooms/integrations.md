@@ -201,6 +201,8 @@
 <br />
 [IFTTT](https://www.ifttt.com/)("if this, then that" — «если это, тогда то») — пользователи IFTTT могут создавать так называемые «рецепты», которые определяют заданный сценарий — что «то» надо сделать, когда наступает «это» событие.
 
+Подробнее об этой интеграции написано [здесь](/articles/ru/faq/list#how-to-integrate-ifttt).
+
 ***
 
 ### <a href="#jenkins" name="jenkins">![clip.png](https://s3.amazonaws.com/kato-share/b65496a66352826692e830d11d99df48ceef3011b9cfc4eda213052315060b8/clip.png) Jenkins</a>
