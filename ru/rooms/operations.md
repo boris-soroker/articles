@@ -56,7 +56,7 @@
  - [Смена типа открытой комнаты](/articles/ru/faq/list#how-to-change-room-type) с защищённой на общедоступную
  - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
  - [Отзыв доступа участника](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой защищённой комнате
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-set-default-noise) для открытой защищённой комнате
  - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
 
 ## <a href="#operations-unrestricted" name="operations-unrestricted">Операции с общедоступными комнатами</a>
@@ -87,7 +87,7 @@
 
  - [Удаление](/articles/ru/faq/list#how-to-delete-a-room) открытой общедоступной комнаты
  - [Смена типа открытой комнаты](/articles/ru/faq/list#how-to-change-room-type) с общедоступной на защищённую
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-set-default-noise) для открытой общедоступной комнате
  - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
 
 ## <a href="#operations-support" name="operations-support">Операции с комнатами поддержки</a>
@@ -112,7 +112,7 @@
 
 Кроме того, админ может выполнять следующую операцию с комнатой поддержки из доступной этому админу команды:
 
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-set-default-noise) для открытой общедоступной комнате
 
 ## <a href="#operations-audit-log" name="operations-audit-log">Операции с интегрированной с журналом аудита комнатой</a>
 
