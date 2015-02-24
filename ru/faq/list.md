@@ -32,6 +32,7 @@
  - [Как создать новую комнату?](/articles/ru/faq/list#how-to-create-a-room)
  - [Как удалить комнату?](/articles/ru/faq/list#how-to-delete-a-room)
  - [Как сменить тип комнаты?](/articles/ru/faq/list#how-to-change-room-type)
+ - [Как установить уровень шума комнаты по умолчанию?](/articles/ru/faq/list#how-to-set-default-noise)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -404,3 +405,27 @@
 ![clip.png](https://in.kato.im/5490c3c6c44a14c8ab0f7478d07250f1ec0b048ca812cb1564ac1e2d78252304/clip.png)
 
 Заполните необходимые поля, введите пароль и кликните на кнопку "Confirm". 
+
+### <a href="#how-to-set-default-noise" name="how-to-set-default-noise">Как установить уровень шума комнаты по умолчанию</a>
+
+Только админы могут устанавливать уровень шума комнаты по умолчанию. 
+
+Кликните на иконку "гамбургер" в заголовке комнаты и затем на опцию "More":
+
+![clip.png](https://in.kato.im/f28519a1ac966d2a6f2c74affc63895ba31fc825d6c134a839ce89cf6599139b/clip.png)
+
+Кликните на вкладку "Noise" окна настройки комнаты:
+
+![clip.png](https://in.kato.im/fd620595bb85a07c36db9602a7b101598325f220a6084fe2ab846c47f865862f/clip.png)
+
+Кликните на выпадающее меню:
+
+![clip.png](https://in.kato.im/9eb7b7e64f08d44e511a5bbaaeab70dc2dc9813e588770d60b7a1ed9e03976/clip.png)
+
+Выберите желаемую опцию:
+
+![clip.png](https://in.kato.im/d546e36a21b026e84475f674116129e1fd8b89fd0b833b77d28e341a8b080/clip.png)
+
+Закройте окно настройки комнаты.
+
+Смысл этой установки заключается в том, что у остальных участников выбранный админом уровень шума для данной комнаты будет выставлен по умолчанию. 
