@@ -29,6 +29,7 @@
  - [Как установить уровень шума для комнаты?](/articles/ru/faq/list#how-to-set-noise)
  - [Как поменять имя комнаты?](/articles/ru/faq/list#how-to-change-room-name)
  - [Как создать новую комнату?](/articles/ru/faq/list#how-to-create-a-room)
+ - [Как удалить комнату?](/articles/ru/faq/list#how-to-delete-a-room)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -347,3 +348,22 @@
 ![clip.png](https://in.kato.im/a34bb959d793860b16931148c32d9695d0657c53647993562fc68af923532e/clip.png)
 
 Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
+
+### <a href="#how-to-delete-a-room" name="how-to-delete-a-room">Как удалить комнату?</a>
+
+Только админы могут удалять общедоступные и защищённые комнаты. 
+
+Кликните на иконку "гамбургер" в заголовке комнаты и затем на опцию "More":
+
+![clip.png](https://in.kato.im/f28519a1ac966d2a6f2c74affc63895ba31fc825d6c134a839ce89cf6599139b/clip.png)
+
+Кликните на вкладку "Delete" окна настройки комнаты:
+
+![clip.png](https://in.kato.im/d8494cbcecaa59192042708f4ea008ee6d48c2684251d819f43aa3fb87eb06/clip.png)
+
+Введите пароль и нажмите на кнопку "Delete":
+
+![clip.png](https://in.kato.im/960d7d1a353961609dc636f2fdb8e030807712ae2ef07d5c00a10e7411ae32a/clip.png)
+
+Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
+
