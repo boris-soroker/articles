@@ -12,7 +12,13 @@
  - читать историю этой комнаты
  - выполнять операции поиска
  
-Существует несколько типов комнат:
+Существуют следующие пять типов комнат:
+
+ - [Общедоступные комнаты.](/articles/ru/rooms/room-types#unrestricted)
+
+## <a href="#unrestricted" name="unrestricted">![icon_unrestricted.png](https://s3.amazonaws.com/kato-share/c40a19803021fd1a9a2a7e0c1d5501b2db31191dacbe9dda631b6c943a6521bf/clip.png)Общедоступные комнаты.</a>
+
+test
 
 ### ![icon_unrestricted.png](https://s3.amazonaws.com/kato-share/c40a19803021fd1a9a2a7e0c1d5501b2db31191dacbe9dda631b6c943a6521bf/clip.png) Общедоступные комнаты
 
