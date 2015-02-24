@@ -32,7 +32,7 @@
 
 **Участник с ограниченным доступом** может выполнять следующие операции с каждой защищённой комнатой, к которой у него есть доступ:
 
- - [Открытие](/articles/ru/faq/list#how-to-open-1-1) защищённой комнаты.
+ - [Открытие](/articles/ru/faq/list#how-to-open-forum) защищённой комнаты.
  - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой защищённой комнаты.
  - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой защищённой комнаты.
  - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой защищённой комнаты.
