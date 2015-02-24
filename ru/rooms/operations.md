@@ -2,22 +2,22 @@
 
 В данной секции рассматриваются следующие темы:
 
- - [Операции с комнатами 1:1.](/articles/ru/rooms/operations#operations-1-1)
- - [Операции с защищёнными комнатами.](/articles/ru/rooms/operations#operations-restricted)
- - [Операции с общедоступными комнатами.](/articles/ru/rooms/operations#operations-unrestricted)
- - [Операции с комнатами поддержки.](/articles/ru/rooms/operations#operations-support)
+ - [Операции с комнатами 1:1](/articles/ru/rooms/operations#operations-1-1)
+ - [Операции с защищёнными комнатами](/articles/ru/rooms/operations#operations-restricted)
+ - [Операции с общедоступными комнатами](/articles/ru/rooms/operations#operations-unrestricted)
+ - [Операции с комнатами поддержки](/articles/ru/rooms/operations#operations-support)
 
-## <a href="#operations-1-1" name="operations-1-1">Операции с комнатами 1:1.</a>
+## <a href="#operations-1-1" name="operations-1-1">Операции с комнатами 1:1</a>
 
 **Участник с ограниченным доступом** может выполнять следующие операции с каждой комнатой 1:1, к которой у него есть доступ:
 
- - [Открытие](/articles/ru/faq/list#how-to-open-1-1) комнаты 1:1.
- - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой комнаты 1:1.
- - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой комнаты 1:1.
- - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой комнаты 1:1.
- - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой комнаты 1:1.
- - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) комнаты 1:1 в виде файла.
- - [Выбор цвета экранного имени](/articles/ru/faq/list#how-to-set-a-color) участника (и, тем самым, экранного имени в заголовке комнаты 1:1 с этим участником).
+ - [Открытие](/articles/ru/faq/list#how-to-open-1-1) комнаты 1:1
+ - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой комнаты 1:1
+ - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой комнаты 1:1
+ - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой комнаты 1:1
+ - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой комнаты 1:1
+ - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) комнаты 1:1 в виде файла
+ - [Выбор цвета экранного имени](/articles/ru/faq/list#how-to-set-a-color) участника (и, тем самым, экранного имени в заголовке комнаты 1:1 с этим участником)
 
 **Участник со стандартным доступом** в каждой комнате 1:1, к которой у него есть доступ, может выполнять все операции, разрешённые участнику с **ограниченным** доступом. Кроме того, участник со стандартным доступом может осуществлять:
 
@@ -28,65 +28,65 @@
  - [Приглашение](/articles/ru/faq/list#how-to-invite-a-new-team-member) нового участника в доступную этому админу команду (возможно, создавая тем самым новую комнату 1:1).
  - [Удаление участника](/articles/ru/faq/list#how-to-delete-a-member) из доступной этому админу команды (возможно, удаляя тем самым существующую комнату 1:1).
 
-## <a href="#operations-restricted" name="operations-restricted">Операции с защищёнными комнатами.</a>
+## <a href="#operations-restricted" name="operations-restricted">Операции с защищёнными комнатами</a>
 
 **Участник с ограниченным доступом** может выполнять следующие операции с каждой защищённой комнатой, к которой у него есть доступ:
 
- - [Открытие](/articles/ru/faq/list#how-to-open-forum) защищённой комнаты.
- - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой защищённой комнаты.
- - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой защищённой комнаты.
- - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой защищённой комнаты.
- - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой защищённой комнаты.
- - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой защищённой комнаты.
- - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) защищённой комнаты в виде файла.
- - [Включение интеграций](/articles/ru/faq/list#how-to-rename-a-room) в защищённой комнате (кроме интеграции с журналом аудита).
+ - [Открытие](/articles/ru/faq/list#how-to-open-forum) защищённой комнаты
+ - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой защищённой комнаты
+ - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой защищённой комнаты
+ - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой защищённой комнаты
+ - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой защищённой комнаты
+ - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой защищённой комнаты
+ - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) защищённой комнаты в виде файла
+ - [Включение интеграций](/articles/ru/faq/list#how-to-rename-a-room) в защищённой комнате (кроме интеграции с журналом аудита)
 
 **Участник со стандартным доступом** в каждой защищённой комнате, к которой у него есть доступ, может выполнять все операции, разрешённые участнику с **ограниченным** доступом. Кроме того, участник со стандартным доступом может осуществлять:
 
- - [Переименование](/articles/ru/faq/list#how-to-rename-a-room) защищённой комнаты, к которой данный участник имеет доступ.
+ - [Переименование](/articles/ru/faq/list#how-to-rename-a-room) защищённой комнаты, к которой данный участник имеет доступ
 
 **Админ** может выполнять все операции, разрешённые участнику со **стандартным** доступом. Кроме того, админ может осуществлять в доступной этому админу команде:
 
- - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой защищённой комнаты.
+ - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой защищённой комнаты
 
 Кроме того, админ может выполнять следующие операции с каждой защищённой комнатой из доступной этому админу команды:
 
- - [Удаление](/articles/ru/faq/list#how-to-invite-a-new-team-member) открытой защищённой комнаты.
- - [Смену типа открытой комнаты](/articles/ru/faq/list#how-to-delete-a-member) с защищённой на общедоступную.
- - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате.
- - [Отзыв доступа участника](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате.
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой защищённой комнате.
- - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате.
+ - [Удаление](/articles/ru/faq/list#how-to-invite-a-new-team-member) открытой защищённой комнаты
+ - [Смену типа открытой комнаты](/articles/ru/faq/list#how-to-delete-a-member) с защищённой на общедоступную
+ - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате
+ - [Отзыв доступа участника](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой защищённой комнате
+ - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
 
-## <a href="#operations-unrestricted" name="operations-unrestricted">Операции с общедоступными комнатами.</a>
+## <a href="#operations-unrestricted" name="operations-unrestricted">Операции с общедоступными комнатами</a>
 
 **Участник с ограниченным доступом** по определению не имеет доступа к общедоступным комнатам.
 
 **Участник со стандартным доступом** может осуществлять в его команде:
 
- - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой общедоступной комнаты -- если эта возможность для участников со стандартным доступом не отключена админами в настройках команды.
+ - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой общедоступной комнаты -- если эта возможность для участников со стандартным доступом не отключена админами в настройках команды
 
 Участник со стандартным доступом по определению имеет доступ ко всем общедоступным комнатам его команды и может кроме того выполнять следующие операции:
 
- - [Открытие](/articles/ru/faq/list#how-to-open-1-1) общедоступной комнаты.
- - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой общедоступной комнаты.
- - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой общедоступной комнаты.
- - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой общедоступной комнаты.
- - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой общедоступной комнаты.
- - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой общедоступной комнаты.
- - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) открытой общедоступной комнаты в виде файла.
- - [Включение интеграций](/articles/ru/faq/list#how-to-rename-a-room) в открытой общедоступной комнаты (кроме интеграции с журналом аудита).
- - [Переименование](/articles/ru/faq/list#how-to-rename-a-room) открытой общедоступной комнаты.
+ - [Открытие](/articles/ru/faq/list#how-to-open-1-1) общедоступной комнаты
+ - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой общедоступной комнаты
+ - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой общедоступной комнаты
+ - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой общедоступной комнаты
+ - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой общедоступной комнаты
+ - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой общедоступной комнаты
+ - [Загрузка истории](/articles/ru/faq/list#how-to-download-room-history) открытой общедоступной комнаты в виде файла
+ - [Включение интеграций](/articles/ru/faq/list#how-to-rename-a-room) в открытой общедоступной комнаты (кроме интеграции с журналом аудита)
+ - [Переименование](/articles/ru/faq/list#how-to-rename-a-room) открытой общедоступной комнаты
 
 **Админ** может выполнять все операции, разрешённые участнику со **стандартным** доступом. Кроме того, админ может осуществлять в доступной этому админу команде:
 
- - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой общедоступной комнаты.
+ - [Создание](/articles/ru/faq/list#how-to-invite-a-new-team-member) новой общедоступной комнаты
 
 Кроме того, админ может выполнять следующие операции с каждой общедоступной комнатой из доступной этому админу команды:
 
- - [Удаление](/articles/ru/faq/list#how-to-invite-a-new-team-member) открытой общедоступной комнаты.
- - [Смену типа открытой комнаты](/articles/ru/faq/list#how-to-delete-a-member) с общедоступной на защищённую.
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате.
- - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате.
+ - [Удаление](/articles/ru/faq/list#how-to-invite-a-new-team-member) открытой общедоступной комнаты
+ - [Смену типа открытой комнаты](/articles/ru/faq/list#how-to-delete-a-member) с общедоступной на защищённую
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате
+ - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
 
-## <a href="#operations-support" name="operations-support">Операции с комнатами поддержки.</a>
+## <a href="#operations-support" name="operations-support">Операции с комнатами поддержки</a>
