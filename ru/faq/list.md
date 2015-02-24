@@ -8,6 +8,7 @@
  - [Как пригласить нового участника в команду?](/articles/ru/faq/list#how-to-invite-a-new-team-member)
  - [Как удалить участника из команды?](/articles/ru/faq/list#how-to-delete-a-member)
  - [Как узнать, кто находится в данной комнате?](/articles/ru/faq/list#how-do-I-see-who-is-in-a-room)
+ - [Как изменить доступ участника к защищённой комнате?](/articles/ru/faq/list#how-to-change-access)
  - [Как узнать, кто является админом в моей команде?](/articles/ru/faq/list#how-to-recognize-an-admin)
  - [Как пользователь может узнать, является ли он админом?](/articles/ru/faq/list#how-get-your-own-role)
  - [Как удалить сообщение?](/articles/ru/faq/list#how-to-delete-a-message)
@@ -73,6 +74,24 @@
 С точки зрения _Шарика_ (который является участником со стандартным доступом) список доступа для этой же защищённой комнаты _Финансы_ выглядит так:
 
 ![clip.png](https://in.kato.im/a03237c9b73a6102c2fe094a6f8ca6136bcdd3087ec66bf6babc1ef1c7a87dc0/clip.png)
+
+### <a href="#how-to-change-access" name="how-to-change-access">Как изменить доступ участника к защищённой комнате?</a>
+
+Только админы могут менять доступ участников к защищённой комнате. 
+
+Кликните на иконку "гамбургер" в заголовке комнаты и затем на опцию "More":
+
+![clip.png](https://in.kato.im/d3ec7885a2f9b756574bd6423110687d8ce4a422ef77ace395e4f5b11d9b71f/clip.png)
+
+Кликните на вкладку "Access" окна настройки комнаты:
+
+![clip.png](https://in.kato.im/901f328f9551b10e76749b43c6ecc25b21fe3ee845debacbc2bef0bfb4dc97b5/clip.png)
+
+Добавьте или удалите необходимых участников и нажмите на кнопку "Change":
+
+![clip.png](https://in.kato.im/45311d1c3ac53ca931af01bd435d28bd6da1068033b6c17b1a5d8f1dd0307009/clip.png)
+
+Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
 
 ### <a href="#how-to-recognize-an-admin" name="how-to-recognize-an-admin">Как узнать, кто является админом в моей команде?</a>
 
