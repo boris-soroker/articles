@@ -35,7 +35,7 @@
 
  - [Открытие](/articles/ru/faq/list#how-to-open-forum) защищённой комнаты
  - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой защищённой комнаты
- - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой защищённой комнаты
+ - [Выбор уровня шума](/articles/ru/faq/list#how-to-set-noise) для открытой защищённой комнаты
  - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой защищённой комнаты
  - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой защищённой комнаты
  - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой защищённой комнаты
@@ -71,7 +71,7 @@
 
  - [Открытие](/articles/ru/faq/list#how-to-open-1-1) общедоступной комнаты
  - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой общедоступной комнаты
- - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой общедоступной комнаты
+ - [Выбор уровня шума](/articles/ru/faq/list#how-to-set-noise) для открытой общедоступной комнаты
  - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой общедоступной комнаты
  - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой общедоступной комнаты
  - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой общедоступной комнаты
@@ -102,7 +102,7 @@
 
  - [Открытие](/articles/ru/faq/list#how-to-open-forum) комнаты поддержки
  - [Закрытие](/articles/ru/faq/list#how-to-close-open-room) открытой комнаты поддержки
- - [Выбор уровня шума](/articles/ru/faq/list#how-to-close-open-room) для открытой комнаты поддержки
+ - [Выбор уровня шума](/articles/ru/faq/list#how-to-set-noise) для открытой комнаты поддержки
  - [Закрепление](/articles/ru/faq/list#how-to-pin-open-room) открытой комнаты поддержки
  - [Перемещение](/articles/ru/faq/list#how-to-move-open-room) открытой комнаты поддержки
  - [Поиск текстовой строки](/articles/ru/faq/list#how-to-search-open-room), задаваемой данным пользователем, в истории открытой комнаты поддержки
