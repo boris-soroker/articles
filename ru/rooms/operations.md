@@ -6,7 +6,7 @@
  - [Операции с защищёнными комнатами](/articles/ru/rooms/operations#operations-restricted)
  - [Операции с общедоступными комнатами](/articles/ru/rooms/operations#operations-unrestricted)
  - [Операции с комнатами поддержки](/articles/ru/rooms/operations#operations-support)
- - [Операции с комнатой, интегрированной с журналом аудита](/articles/ru/rooms/operations#operations-audit-log)
+ - [Операции с интегрированной с журналом аудита комнатой](/articles/ru/rooms/operations#operations-audit-log)
 
 ## <a href="#operations-1-1" name="operations-1-1">Операции с комнатами 1:1</a>
 
@@ -114,6 +114,6 @@
 
  - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате
 
-## <a href="#operations-audit-log" name="operations-audit-log">Операции с комнатой, интегрированной с журналом аудита</a>
+## <a href="#operations-audit-log" name="operations-audit-log">Операции с интегрированной с журналом аудита комнатой</a>
 
 Этот тип комнаты не является особым. Если данная комната, интегрированная с журналом аудита, является защищённой, то все операции, применимые к защищённой комнате, в полной мере относятся к данной комнате. Если данная комната, интегрированная с журналом аудита, является общедоступной, то все операции, применимые к общедоступной комнате, в полной мере относятся к данной комнате.
