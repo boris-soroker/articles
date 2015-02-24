@@ -25,6 +25,7 @@
  - [Как загрузить историю открытой комнаты в файл?](/articles/ru/faq/list#how-to-download-room-history)
  - [Как интегрировать комнату с журналом аудита?](/articles/ru/faq/list#how-to-integrate-audit-log)
  - [Можно рассказать подробнее про интеграцию с IFTTT?](/articles/ru/faq/list#how-to-integrate-ifttt)
+ - [Как установить уровень шума для комнаты?](/articles/ru/faq/list#how-to-set-noise)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -263,21 +264,21 @@
 
 Целый ряд полезных рецептов опубликованы на [IFTTT-канале Kato](https://ifttt.com/kato)
 
-## Kato → Google Spreadsheets
+### Kato → Google Spreadsheets
 
 <a href="https://ifttt.com/view_embed_recipe/207259-message-in-kato-adds-a-row-in-google-spreadsheets" target = "_blank" class="embed_recipe embed_recipe-l_49" id= "embed_recipe-207259"><img src= 'https://ifttt.com/recipe_embed_img/207259' alt="IFTTT Recipe: Message in Kato adds a row in Google Spreadsheets connects kato to google-drive" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br />
 Этот рецепт хорошо подходит для ведения журнала активности команды. Например, участники этой команды могут создать комнату «Учет работы», куда каждый работник будет писать сообщение о старте или завершении работы над той или иной задачей. С помощью интеграции Kato и IFTTT, сообщения из этой комнаты можно публиковать в таблицу Google Spreadsheets — на выходе получится журнал учета работы команды.
 
-## Kato → Напоминания iOS
+### Kato → Напоминания iOS
 
 <a href="https://ifttt.com/view_embed_recipe/209885-turn-messages-in-a-kato-room-into-ios-reminders" target = "_blank" class="embed_recipe embed_recipe-l_47" id= "embed_recipe-209885"><img src= 'https://ifttt.com/recipe_embed_img/209885' alt="IFTTT Recipe: Turn messages in a Kato room into iOS reminders connects kato to ios-reminders" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br />
 На данный момент в Kato нет встроенных напоминаний, но эту функцию можно реализовать с помощью IFTTT. Нужно создать комнату с говорящим названием «Напоминания», подключить данный рецепт, и iPhone сможет показывать сообщения из этой комнаты, в качестве напоминаний.
 
-## Публикация местоположения в мессенджер Kato
+### Публикация местоположения в мессенджере Kato
 
-### iOS
+#### iOS
 <a href="https://ifttt.com/view_embed_recipe/209845-posts-to-kato-when-you-enter-or-exit-hq" target = "_blank" class="embed_recipe embed_recipe-l_39" id= "embed_recipe-209845"><img src= 'https://ifttt.com/recipe_embed_img/209845' alt="IFTTT Recipe: Posts to Kato when you enter or exit HQ connects ios-location to kato" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script>
-### Android
+#### Android
 <a href="https://ifttt.com/view_embed_recipe/209852-posts-to-kato-when-you-enter-or-exit-hq" target = "_blank" class="embed_recipe embed_recipe-l_39" id= "embed_recipe-209852"><img src= 'https://ifttt.com/recipe_embed_img/209852' alt="IFTTT Recipe: Posts to Kato when you enter or exit HQ connects android-location to kato" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br />
 С помощью этого рецепта пользователь Kato может делиться информацией о своем местонахождении с членами команды.
 
@@ -286,3 +287,16 @@
 <a href="https://ifttt.com/view_embed_recipe/204301-dropbox-to-kato" target = "_blank" class="embed_recipe embed_recipe-l_15" id= "embed_recipe-204301"><img src= 'https://ifttt.com/recipe_embed_img/204301' alt="IFTTT Recipe: Dropbox to Kato connects dropbox to kato" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script><br />
 С помощью этого рецепта можно отправлять в комнату Kato сообщение о появлении нового загруженного файла в папке Dropbox. Если компания наняла стороннего бухгалтера, то ему можно дать доступ к комнате «Бухгалтерия», в которую будут поступать уведомления о загруженных в соответствующую папку Dropbox файлах счетов или отчетов.
 
+### <a href="#how-to-set-noise" name="how-to-set-noise">Как установить уровень шума для комнаты?</a>
+
+В комнате любого типа, кроме комнат 1:1, пользователь может установить уровень шума:
+
+![clip.png](https://in.kato.im/21938eefc41ea06a8220bc1bdfb4b1907b243e2cff03a436872add38d6349899/clip.png)
+
+Уровень "Ignore" не порождает уведомлений, за исключением случая упоминания (прямого или косвенного) данного пользователя, при котором уведомление-пилюля будет красного цвета.
+
+Уровень "Watch" порождает уведомления-пилюли серого цвета, за исключением случая упоминания (прямого или косвенного) данного пользователя, при котором уведомление-пилюля будет красного цвета.
+
+Уровень "Following" порождает уведомления-пилюли чёрного цвета, за исключением случая упоминания (прямого или косвенного) данного пользователя, при котором уведомление-пилюля будет красного цвета. Заметим, что если в некоторой комнате упомянуто имя комнаты, которая имеет уровень "Following" для данного пользователя, то это вызовет косвенное упоминание данного пользователя.
+
+В комнатах 1:1 каждое сообщение трактуется как упоминание данного пользователя, то есть уведомление-пилюля будет красного цвета.
