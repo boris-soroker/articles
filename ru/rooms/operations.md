@@ -57,7 +57,7 @@
  - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
  - [Отзыв доступа участника](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
  - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-set-default-noise) для открытой защищённой комнате
- - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
+ - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-integrate-audit-log) в открытой защищённой комнате
 
 ## <a href="#operations-unrestricted" name="operations-unrestricted">Операции с общедоступными комнатами</a>
 
@@ -88,7 +88,7 @@
  - [Удаление](/articles/ru/faq/list#how-to-delete-a-room) открытой общедоступной комнаты
  - [Смена типа открытой комнаты](/articles/ru/faq/list#how-to-change-room-type) с общедоступной на защищённую
  - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-set-default-noise) для открытой общедоступной комнате
- - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
+ - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-integrate-audit-log) в открытой защищённой комнате
 
 ## <a href="#operations-support" name="operations-support">Операции с комнатами поддержки</a>
 
