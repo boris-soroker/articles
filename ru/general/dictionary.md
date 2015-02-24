@@ -2,15 +2,15 @@
 
 Мы постоянно работаем над улучшением Kato, но пока что интерфейс нашего мессенджера существует только в английском варианте. Для того, чтобы читателям было проще применять на практике полученные из данного руководства знания, мы создали представленные в этой секции словари. В них перечислены соответствия между русскими и английскими терминами, принятыми в Kato (а также обратные соответствия):
 
-[Русский `>>` English](/articles/ru/general/dictionary#ru-en) 
+[Русский → English](/articles/ru/general/dictionary#ru-en) 
 
-[English `>>` Русский](/articles/ru/general/dictionary#en-ru) 
+[English → Русский](/articles/ru/general/dictionary#en-ru) 
 
-## <a href="#ru-en" name="ru-en">Русский `>>` English `>>` ссылка</a>
+## <a href="#ru-en" name="ru-en">Русский → English → ссылка</a>
 
- - Админ команды `>>` Team admin `>>` [ссылка](/articles/ru/teams/)
- - Анонс `>>` Preview `>>` [ссылка](/articles/ru/teams/)
- - Без записи `>>` Off The Record `>>` [ссылка](/articles/ru/teams/)
+ - Админ команды → Team admin → [ссылка](/articles/ru/teams/)
+ - Анонс → Preview → [ссылка](/articles/ru/teams/)
+ - Без записи → Off The Record → [ссылка](/articles/ru/teams/)
  - Вход `>>` Sign in `>>` [ссылка](/articles/ru/teams/)
  - Выход `>>` Sign out `>>` [ссылка](/articles/ru/teams/)
  - Глобальный поиск `>>` Global search `>>` [ссылка](/articles/ru/teams/)
