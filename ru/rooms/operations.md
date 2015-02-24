@@ -86,7 +86,7 @@
 
  - [Удаление](/articles/ru/faq/list#how-to-invite-a-new-team-member) открытой общедоступной комнаты.
  - [Смену типа открытой комнаты](/articles/ru/faq/list#how-to-delete-a-member) с общедоступной на защищённую.
- - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) d открытой общедоступной комнате.
+ - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой общедоступной комнате.
  - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате.
 
 ## <a href="#operations-support" name="operations-support">Операции с комнатами поддержки.</a>
