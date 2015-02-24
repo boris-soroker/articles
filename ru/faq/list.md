@@ -28,6 +28,7 @@
  - [Можно рассказать подробнее про интеграцию с IFTTT?](/articles/ru/faq/list#how-to-integrate-ifttt)
  - [Как установить уровень шума для комнаты?](/articles/ru/faq/list#how-to-set-noise)
  - [Как поменять имя комнаты?](/articles/ru/faq/list#how-to-change-room-name)
+ - [Как создать новую комнату?](/articles/ru/faq/list#how-to-create-a-room)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -332,3 +333,13 @@
 Поменяйте имя комнаты и кликните на кнопку "Change":
 
 ![clip.png](https://in.kato.im/411eeb91456d7667b4c005213d99ed547f789a58a68253f83aed47c94da5b0cf/clip.png)
+
+### <a href="#how-to-create-a-room" name="how-to-create-a-room">Как создать новую комнату?</a>
+
+Кликните на иконку "+" в ростере:
+
+![clip.png](https://in.kato.im/e36853b1634305e3375a49517ffba58baf143f5ed5cd3af01c40502fde527486/clip.png)
+
+Заполните поля окна "Add rooms" и кликните на кнопку "Add":
+
+![clip.png](https://in.kato.im/a34bb959d793860b16931148c32d9695d0657c53647993562fc68af923532e/clip.png)
