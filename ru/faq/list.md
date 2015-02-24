@@ -249,11 +249,19 @@
 
 ### <a href="#how-to-open-integrations" name="how-to-open-integrations">Как открыть окно интеграций?</a>
 
-Пользователь имеет три разных подхода:
+Пользователь имеет два разных подхода:
 
-(1) Клик на иконку «гамбургер» в верхнем правом углу ростера:
+(1) Клик на иконку «гамбургер» в верхнем правом углу ростера и затем клик на опцию "Manage integrations":
 
 ![clip.png](https://in.kato.im/245edb226e767ab0c4b5cdcd2229fe4a19bc6071802eadcbaed8aeaa5413a5c3/clip.png)
+
+(2) Клик на иконку «гамбургер» в заголовке комнаты и затем клик на опцию "Manage integrations":
+
+![clip.png](https://in.kato.im/44074056406b40632b13ce69fc77ea8123f95423d079f84280701562dcc4642/clip.png)
+
+В обоих случаях будет открыто окно интеграций:
+
+![clip.png](https://in.kato.im/8bd301eb1b179754686a212f20bdde516202e5984578fadad78581a7df813b6/clip.png)
 
 ### <a href="#how-to-integrate-audit-log" name="how-to-integrate-audit-log">Как интегрировать комнату с журналом аудита?</a>
 
