@@ -54,8 +54,8 @@
 
  - [Удаление](/articles/ru/faq/list#how-to-delete-a-room) открытой защищённой комнаты
  - [Смена типа открытой комнаты](/articles/ru/faq/list#how-to-change-room-type) с защищённой на общедоступную
- - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате
- - [Отзыв доступа участника](/articles/ru/faq/list#how-to-delete-a-member) к открытой защищённой комнате
+ - [Предоставление доступа участнику](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
+ - [Отзыв доступа участника](/articles/ru/faq/list#how-to-change-access) к открытой защищённой комнате
  - [Установка уровня шума по умолчанию](/articles/ru/faq/list#how-to-delete-a-member) в открытой защищённой комнате
  - [Включение интеграции с журналом аудита](/articles/ru/faq/list#how-to-rename-a-room) в открытой защищённой комнате
 
