@@ -23,6 +23,7 @@
  - [Как поменять порядок открытых комнат?](/articles/ru/faq/list#how-to-move-open-room)
  - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
  - [Как загрузить историю открытой комнаты в файл?](/articles/ru/faq/list#how-to-download-room-history)
+ - [Как интегрировать комнату с журналом аудита?](/articles/ru/faq/list#how-to-integrate-audit-log)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -243,3 +244,10 @@
 
 Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
 
+### <a href="#how-to-integrate-audit-log" name="how-to-integrate-audit-log">Как интегрировать комнату с журналом аудита?</a>
+
+Заметим, что эта операция доступна только админам.
+
+Откройте окно интеграций для данной комнаты. Клик на иконку журнала аудита покажет следующий интерфейс:
+
+![clip.png](https://in.kato.im/3a0fa0943e5d3fdb49efbb682fda81ad4003e9ac6074e0b23b74ccd25e61a0e2/clip.png)
