@@ -20,11 +20,11 @@
  - [Комната поддержки.](/articles/ru/rooms/room-types#support)
  - [Комната с включённой интеграцией с журналом аудита.](/articles/ru/rooms/room-types#audit-log)
 
-## <a href="#unrestricted" name="unrestricted">![icon_unrestricted.png](https://s3.amazonaws.com/kato-share/c40a19803021fd1a9a2a7e0c1d5501b2db31191dacbe9dda631b6c943a6521bf/clip.png)Общедоступные комнаты.</a>
+## <a href="#unrestricted" name="unrestricted">![icon_unrestricted.png](https://s3.amazonaws.com/kato-share/c40a19803021fd1a9a2a7e0c1d5501b2db31191dacbe9dda631b6c943a6521bf/clip.png) Общедоступные комнаты.</a>
 
 **Общедоступные комнаты** — это самый простой в создании и самый гибкий в использовании тип комнат в Kato. Каждый член команды (с некоторыми исключениями) может читать публикуемые там сообщения и публиковать в них свои сообщения. Каждая команда выбирает свой стиль работы с общедоступными комнатами -- в одних командах одна общедоступная комната служит местом почти всех обсуждений, тогда как в других командах новые общедоступные комнаты создаются для обсуждений каждой конкретной темы.
 
-## <a href="#restricted" name="restricted">![icon_restricted.png](https://s3.amazonaws.com/kato-share/b0ec7fb6ba4217471256c42a85225b1a82b5fb1967e754386b881b14a08591/clip.png)Защищённые комнаты.</a>
+## <a href="#restricted" name="restricted">![icon_restricted.png](https://s3.amazonaws.com/kato-share/b0ec7fb6ba4217471256c42a85225b1a82b5fb1967e754386b881b14a08591/clip.png) Защищённые комнаты.</a>
 
 Доступ к некоторой **защищённой комнате** имеют только участники, которых админы команды включили в **список доступа** к данной защищённой комнате. Админы могут также отзывать доступ.
 
@@ -32,13 +32,13 @@
 
 Работа с защищёнными комнатами подробнее описана [здесь](/articles/ru/power-users/restricted-rooms), информация о том, как изменить тип комнаты, представлена [здесь](/articles/ru/power-users/restricted-rooms#changing-room-access-type).
 
-## <a href="#rooms-1-1" name="rooms-1-1">![icon_1-1](https://s3.amazonaws.com/kato-share/ab26984594a4d458fddcedfd5dcd648dac751415e57c45568811db9a856dd946/clip.png)Комнаты 1:1.</a>
+## <a href="#rooms-1-1" name="rooms-1-1">![icon_1-1](https://s3.amazonaws.com/kato-share/ab26984594a4d458fddcedfd5dcd648dac751415e57c45568811db9a856dd946/clip.png) Комнаты 1:1.</a>
 
 **Комната 1:1** («один-на-один») — это приватный диалог между двумя участниками, сообщения в котором не может читать никто иной. Для того, чтобы открыть с каким-либо участником комнату 1:1, следует кликнуть на его имя в ростере.
 
 Админы могут отключать доступ к комнатам 1:1 между не-админами в командных настройках. 
 
-## <a href="#support" name="support">![icon_support](https://s3.amazonaws.com/kato-share/81bb199e41a8e4729cd4e1354aa2af9a611c2534a46be563149eda97cfb61954/clip.png)Комната поддержки.</a>
+## <a href="#support" name="support">![icon_support](https://s3.amazonaws.com/kato-share/81bb199e41a8e4729cd4e1354aa2af9a611c2534a46be563149eda97cfb61954/clip.png) Комната поддержки.</a>
 
 В **комнате поддержки** каждая команда может связаться с сотрудниками Kato по любым вопросам, от замеченных неполадок в работе сервиса до обсуждения возможных нововведений. 
 
@@ -46,6 +46,6 @@
 
 Любой участник может скрыть доступные ему комнаты поддержки в своём ростере в окне настроек своей учётной записи.
 
-## <a href="#audit-log" name="audit-log">![icon_audit](https://s3.amazonaws.com/kato-share/1ff1ab2420539f3d4d5b008f957e047bac4f06c45c9d08ebd288dc34975a965b/clip.png)Комната с включённой интеграцией с журналом аудита.</a>
+## <a href="#audit-log" name="audit-log">![icon_audit](https://s3.amazonaws.com/kato-share/1ff1ab2420539f3d4d5b008f957e047bac4f06c45c9d08ebd288dc34975a965b/clip.png) Комната с включённой интеграцией с журналом аудита.</a>
 
 Комната с включённой интеграцией с [журналом аудита](/articles/ru/rooms/audit-log-integration) не является комнатой уникального типа (она может быть как защищённой, так и общедоступной). Тем не менее, эта интеграция настолько важна, что факт её включённости отражается специальной иконкой.
