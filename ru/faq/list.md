@@ -30,6 +30,7 @@
  - [Как поменять имя комнаты?](/articles/ru/faq/list#how-to-change-room-name)
  - [Как создать новую комнату?](/articles/ru/faq/list#how-to-create-a-room)
  - [Как удалить комнату?](/articles/ru/faq/list#how-to-delete-a-room)
+ - [Как сменить тип комнаты?](/articles/ru/faq/list#how-to-change-room-type)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -367,3 +368,20 @@
 
 Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
 
+### <a href="#how-to-change-room-type" name="how-to-change-room-type">Как сменить тип комнаты?</a>
+
+Только админы могут удалять общедоступные и защищённые комнаты. 
+
+Кликните на иконку "гамбургер" в заголовке комнаты и затем на опцию "More":
+
+![clip.png](https://in.kato.im/f28519a1ac966d2a6f2c74affc63895ba31fc825d6c134a839ce89cf6599139b/clip.png)
+
+Кликните на вкладку "Aceess" окна настройки комнаты:
+
+![clip.png](https://in.kato.im/a43392b9c1a55e9b801250572902190d4e18c3a729983da084ccb4fee3193ef1/clip.png)
+
+Кликните на переключатель:
+
+![clip.png](https://in.kato.im/5490c3c6c44a14c8ab0f7478d07250f1ec0b048ca812cb1564ac1e2d78252304/clip.png)
+
+Заполните необходимые поля, введите пароль и кликните на кнопку "Confirm". 
