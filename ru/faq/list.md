@@ -23,6 +23,7 @@
  - [Как поменять порядок открытых комнат?](/articles/ru/faq/list#how-to-move-open-room)
  - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
  - [Как загрузить историю открытой комнаты в файл?](/articles/ru/faq/list#how-to-download-room-history)
+ - [Как открыть окно интеграций?](/articles/ru/faq/list#how-to-open-integrations)
  - [Как интегрировать комнату с журналом аудита?](/articles/ru/faq/list#how-to-integrate-audit-log)
  - [Можно рассказать подробнее про интеграцию с IFTTT?](/articles/ru/faq/list#how-to-integrate-ifttt)
  - [Как установить уровень шума для комнаты?](/articles/ru/faq/list#how-to-set-noise)
@@ -245,6 +246,14 @@
 Клик на любую из двух кнопок "Download" сохранит историю данной комнаты в текстовом файле (простом или формата JSON).
 
 Случай подключённого клавиатурного контроля не рассматривается из-за его тривиальности. 
+
+### <a href="#how-to-open-integrations" name="how-to-open-integrations">Как открыть окно интеграций?</a>
+
+Пользователь имеет три разных подхода:
+
+(1) Клик на иконку «гамбургер» в верхнем правом углу ростера:
+
+![clip.png](https://in.kato.im/245edb226e767ab0c4b5cdcd2229fe4a19bc6071802eadcbaed8aeaa5413a5c3/clip.png)
 
 ### <a href="#how-to-integrate-audit-log" name="how-to-integrate-audit-log">Как интегрировать комнату с журналом аудита?</a>
 
