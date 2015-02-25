@@ -356,22 +356,12 @@
                         {
                             "type": "page",
                             "src": "multiple-teams",
-                            "title": "Работа в нескольких командах"
+                            "title": "Концепция"
                         },
                         {
                             "type": "page",
-                            "src": "who-owns-your-messages",
-                            "title": "Кому принадлежат сообщения (wip)"
-                        },
-                        {
-                            "type": "page",
-                            "src": "global-search",
-                            "title": "Глобальный поиск"
-                        },
-                        {
-                            "type": "page",
-                            "src": "security",
-                            "title": "Информационная безопасность (wip)"
+                            "src": "operations",
+                            "title": "Операции с командами"
                         },
                         {
                             "type": "page",
