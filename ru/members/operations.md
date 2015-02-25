@@ -6,6 +6,10 @@
  - [Операции с участниками, разрешённые пользователю со стандартным доступом](/articles/ru/members/operations#operations-for-unrestricted-member)
  - [Операции с участниками, разрешённые пользователю в роли админа](/articles/ru/members/operations#operations-for-admin)
 
+Кроме того, рассматриваются возможности пользователя, связанные с изменением настроек в его учётной записи:
+
+ - [Изменения настроек в учётной записи пользователя](/articles/ru/members/operations#operations-my-account)
+
 ## <a href="#operations-for-restricted-member" name="operations-for-restricted-member">Операции с участниками, разрешённые пользователю с ограниченным доступом</a>
 
 **Пользователь с ограниченным доступом** может выполнять следующие операции с участниками, экранные имена которых видны ему в списке участников ростера:
@@ -28,3 +32,7 @@
 
  - [Приглашение](/articles/ru/faq/list#how-to-invite-a-new-team-member) нового участника в доступную этому админу команду
  - [Удаление участника](/articles/ru/faq/list#how-to-delete-a-member) из доступной этому админу команды
+
+## <a href="#operations-my-account" name="operations-my-account">Изменения настроек в учётной записи пользователя</a>
+
+ - [Здесь должен быть список!](/articles/ru/faq/list#how-to-invite-a-new-team-member) 
