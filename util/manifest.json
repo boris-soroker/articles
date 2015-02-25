@@ -388,17 +388,12 @@
                         {
                             "type": "page",
                             "src": "roles",
-                            "title": "Роли"
+                            "title": "Роли участников"
                         },
                         {
                             "type": "page",
                             "src": "statuses",
-                            "title": "Статусы"
-                        },
-                        {
-                            "type": "page",
-                            "src": "profile-cards",
-                            "title": "Карточка участника"
+                            "title": "Операции с участниками"
                         },
                         {
                             "type": "page",
