@@ -35,4 +35,6 @@
 
 ## <a href="#operations-my-account" name="operations-my-account">Изменения настроек в учётной записи пользователя</a>
 
- - [Здесь должен быть список!](/articles/ru/faq/list#how-to-invite-a-new-team-member) 
+Пользователь может менять в своём «профиле» значительную часть информации, видимой в его карточке участника другими участниками. 
+
+ - [Редактирование профиля](/articles/ru/faq/list#how-a-user-can-update-his-profile) 
