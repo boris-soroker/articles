@@ -392,13 +392,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "statuses",
+                            "src": "operations",
                             "title": "Операции с участниками"
-                        },
-                        {
-                            "type": "page",
-                            "src": "my-account",
-                            "title": "Окно «Моя учётная запись»"
                         },
                         {
                             "type": "page",
