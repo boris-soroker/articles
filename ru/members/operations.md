@@ -16,7 +16,7 @@
 
  - [Фильтровать участников по их экранным именам](/articles/ru/faq/list#how-to-filter-members)
  - [Видеть статус данного участника](/articles/ru/faq/list#what-is-status)
- - [Открывать карточку данного участника](/articles/ru/faq/list#how-to-open-member-card)
+ - [Открывать карточку данного участника](/articles/ru/faq/list#how-to-see-a-profile-card)
  - [Открывать комнату 1:1 с данным участником](/articles/ru/faq/list#how-to-open-1-1)
  - Все операции, разрешённые пользователю с ограниченным доступом в открытых комнатах 1:1
 
