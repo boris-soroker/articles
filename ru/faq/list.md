@@ -491,7 +491,7 @@
 
 ![clip.png](https://in.kato.im/3bc672ff60925e71e50bc9ee809522f32348fada2e6c511944e4528652767/clip.png)
 
-### <a href="#how-a-user-can-update-his-profile)" name="how-a-user-can-update-his-profile)">Как пользователь может изменить свой профиль?</a>
+### <a href="#how-a-user-can-update-his-profile" name="how-a-user-can-update-his-profile">Как пользователь может изменить свой профиль?</a>
 
 Источником данных для профиля является вкладка "Profile" окна "My Account".
 
