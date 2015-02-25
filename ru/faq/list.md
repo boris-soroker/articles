@@ -9,7 +9,6 @@
  - [Как удалить участника из команды?](/articles/ru/faq/list#how-to-delete-a-member)
  - [Как узнать, кто находится в данной комнате?](/articles/ru/faq/list#how-do-I-see-who-is-in-a-room)
  - [Как изменить доступ участника к защищённой комнате?](/articles/ru/faq/list#how-to-change-access)
- - [Как узнать, кто является админом в моей команде?](/articles/ru/faq/list#how-to-recognize-an-admin)
  - [Как пользователь может узнать, является ли он админом?](/articles/ru/faq/list#how-get-your-own-role)
  - [Как удалить сообщение?](/articles/ru/faq/list#how-to-delete-a-message)
  - [Как изменить цвет фона?](/articles/ru/faq/list#how-to-change-background-color)
@@ -35,6 +34,10 @@
  - [Как установить уровень шума комнаты по умолчанию?](/articles/ru/faq/list#how-to-set-default-noise)
  - [Как отфильтровать список участников в ростере?](/articles/ru/faq/list#how-to-filter-members)
  - [Что такое «статус участника»?](/articles/ru/faq/list#what-is-status)
+ - [Что такое «карточка участника» и как пользователь может увидеть её в ростере?](/articles/ru/faq/list#how-to-see-a-profile-card)
+ - [Как распознать админа?](/articles/ru/faq/list#how-to-spot-an-admin)
+ - [Как пользователь может увидеть свой профиль?](/articles/ru/faq/list#how-a-user-can-see-his-profile)
+ - [Как пользователь может изменить свой профиль?](/articles/ru/faq/list#how-a-user-can-update-his-profile)
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
@@ -91,10 +94,6 @@
 Добавьте или удалите необходимых участников и нажмите на кнопку "Change":
 
 ![clip.png](https://in.kato.im/45311d1c3ac53ca931af01bd435d28bd6da1068033b6c17b1a5d8f1dd0307009/clip.png)
-
-### <a href="#how-to-recognize-an-admin" name="how-to-recognize-an-admin">Как узнать, кто является админом в моей команде?</a>
-
-Смотрите ответ [здесь](/articles/ru/members/profile-cards#how-to-spot-an-admin).
 
 ### <a href="#how-get-your-own-role" name="how-get-your-own-role">Как пользователь может узнать, является ли он админом?</a>
 
@@ -459,3 +458,49 @@
  - «выслано приглашение»
 
 Заметим, что включить уточняющий текст (например, «Вернусь через час») в статус в данный момент нельзя, но можно создать общедоступную комнату для такого рода сообщений и публиковать уточнения в ней.
+
+### <a href="#how-to-see-a-profile-card" name="how-to-see-a-profile-card">Что такое «карточка участника» и как пользователь может увидеть её в ростере?</a>
+
+**Карточка участника** – удобное средство получения дополнительной информации об участниках. Эта информация задаётся и меняется как самими участниками, так и системой Kato (при изменениях ролей и прав доступа для отдельных участников).
+
+Снимок внизу показывает «шпалы», видимые пользователю в районе левой границы ростера при наведении курсора мышки на экранное имя какого-то участника команды: 
+
+![clip.png](https://in.kato.im/e4cac3f49313c351a31b1ac2a01087c053bfbcd8621b412ba0a4552af975b2fd/clip.png)
+
+При клике на шпалы открывается **карточка участника**:
+
+![clip.png](https://in.kato.im/50855ee7c3751df6b0434f035e4e49f9d69531367f143c2badc196f8f2004c0/clip.png)
+
+В частности, карточка участника содержит информацию о данном участнике (экранное имя, должность, е-адрес, фото, а также список [команд](/articles/ru/general/cheatsheet#multiple-orgs), которые связывают пользователя и данного участника):
+
+![clip.png](https://in.kato.im/3ee426d782b4499372a5f33484db29d417a4f1252505cfc54ca78fd4a3f1b328/clip.png)
+
+### <a href="#how-to-spot-an-admin" name="how-to-spot-an-admin">Как распознать админа?</a>
+
+Карточка участника содержит указание на роль этого участника в команде:
+
+![clip.png](https://in.kato.im/646e6d3d7bd1a46b756fdd82f1c25711daac2ed9d8f7452d134439747b0ea8d/clip.png)
+
+То обстоятельство, что участник _Фёдор_ является админом команды _Команда дяди Фёдора_, также отражено в его карточке участника на картинке вверху (обратите внимение на маркер "ADMIN" слева от названия _Команда дяди Фёдора_). Таким образом, пользователь может ответить на вопросы «Является ли данный участник админом в моей команде?» и «Какие участники являются админами в моей команде?». 
+
+### <a href="#how-a-user-can-see-his-profile" name="how-a-user-can-see-his-profile">Как пользователь может увидеть свой профиль?</a>
+
+Источником данных для карточки участника является так называемый **профиль** пользователя.
+
+Посмотреть на свой профиль пользователь может, кликнув на иконку «гамбургер» в верхнем правом углу ростера:
+
+![clip.png](https://in.kato.im/3bc672ff60925e71e50bc9ee809522f32348fada2e6c511944e4528652767/clip.png)
+
+### <a href="#how-a-user-can-update-his-profile)" name="how-a-user-can-update-his-profile)">Как пользователь может изменить свой профиль?</a>
+
+Источником данных для профиля является вкладка "Profile" окна "My Account".
+
+Для открытия окна "My Account" следует кликнуть на опцию "My Account" в меню, открывающемся после клика на иконку «гамбургер»:
+
+![clip.png](https://in.kato.im/f8cfa8cfb0cbf1e8bdad1761fef9af3fd92c5e079f0de3ba21553c54bc487eea/clip.png)
+
+Вкладка "Profile" позволяет изменять поля "My display name", "My job title", а также поля, связанные с фото пользователя:
+
+![clip.png](https://in.kato.im/b2226c07d88d4a4ccb97761c755b6568498f0dc57e2fe36cd4a4cdf16d0318/clip.png)
+
+Отметим, что пользователь может изменить свой е-адрес во вкладке "Credentials" в этом же окне "My Account".
