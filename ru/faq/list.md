@@ -5,6 +5,7 @@
 
 Зелёные стрелки на снимках означают «кликните сюда». Светло-коричневые прямоугольные рамки на снимках обозначают участок снимка, на который следует обратить особое внимание.
 
+ - [Как создать команду?](/articles/ru/faq/list#how-to-create-a-new-team)
  - [Как пригласить нового участника в команду?](/articles/ru/faq/list#how-to-invite-a-new-team-member)
  - [Как удалить участника из команды?](/articles/ru/faq/list#how-to-delete-a-member)
  - [Как узнать, кто находится в данной комнате?](/articles/ru/faq/list#how-do-I-see-who-is-in-a-room)
@@ -38,6 +39,44 @@
  - [Как распознать админа?](/articles/ru/faq/list#how-to-spot-an-admin)
  - [Что такое «профиль» и как пользователь может его увидеть?](/articles/ru/faq/list#how-a-user-can-see-his-profile)
  - [Как пользователь может изменить свой профиль?](/articles/ru/faq/list#how-a-user-can-update-his-profile)
+
+### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
+
+Возможны два варианта этого вопроса:
+
+(1) Как Вы можете создать новую команду «с нуля», когда Ваш е-адрес неизвестен Kato?
+
+(2) Как Вы, являясь пользователем Kato, можете создать ещё одну команду, используя Ваш нынешний е-адрес?
+
+В первом варианте – откройте страницу http://kato.im и кликните на кнопку "Free — Get Started":
+
+![clip.png](https://in.kato.im/73899c555fda035beb75e88344a40f9f973f5b6049f48330a874023b2e306434/clip.png)
+
+Затем, на новой странице "Sign Up" заполните поля и кликните на кнопку "Sign Up":
+
+! [clip.png](https://in.kato.im/51770f88b128498f2599a46a2e7b38f8a5323a77b4450af28118be3d39e85d31/clip.png)
+
+После подтверждения Вашего е-адреса новая команда, где Вы являетесь админом, будет создана.
+
+Во втором варианте – кликните на иконку «гамбургер» в верхнем правом углу ростера:
+
+![clip.png](https://in.kato.im/1fbda4a7754890331dab31cca1be7e047bcd0bbb6c9546c988151f0f54e55515/clip.png)
+
+Заметим, что участник _Шарик_ на картинке вверху уже является участником двух команд. Для случая одной команды она не показвается в ростере – для экономии места. 
+
+Затем кликните на опцию "My Teams" открывшегося меню:
+
+![clip.png](https://in.kato.im/d483f622365e684a4adbf1321b0f4856cf0a9355b9bd66abb62b9f3f3b93fac1/clip.png)
+
+В окне "My Teams" кликните на кнопку "Create New Team":
+
+![clip.png](https://in.kato.im/a80e6bd112c155fc32a412edd35cc5f8ba467bb15532efc2153fe0a8e44d61/clip.png)
+
+Заполните поля окна "Create New Team" и кликните на кнопку "Create Team":
+
+![clip.png](https://in.kato.im/93843cc5a87d33f2bc4b908a989405e73b65ad484d6095dc8f9798fb122b437c/clip.png)
+
+Новая команда, где Вы являетесь админом, будет создана.
 
 ### <a href="#how-to-invite-a-new-team-member" name="how-to-invite-a-new-team-member">Как пригласить нового участника в команду?</a>
 
