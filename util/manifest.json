@@ -458,53 +458,13 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "conspectus-messages",
-                            "title": "Обзор"
-                        },
-                        {
-                            "type": "page",
-                            "src": "formatting",
-                            "title": "Форматирование"
-                        },
-                        {
-                            "type": "page",
-                            "src": "files",
-                            "title": "Публикация файлов"
-                        },
-                        {
-                            "type": "page",
-                            "src": "markdown",
-                            "title": "Режим Markdown"
-                        },
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Поддержка смайликов"
-                        },
-                        {
-                            "type": "page",
-                            "src": "otr",
-                            "title": "Режим «Без записи» - wip"
-                        },
-                        {
-                            "type": "page",
-                            "src": "editing",
-                            "title": "Редактирование"
-                        },
-                        {
-                            "type": "page",
-                            "src": "long",
-                            "title": "Длинные сообщения"
+                            "src": "creation",
+                            "title": "Публикация сообщений"
                         },
                         {
                             "type": "page",
                             "src": "history",
-                            "title": "История"
-                        },
-                        {
-                            "type": "page",
-                            "src": "message-cards",
-                            "title": "Карточки сообщений"
+                            "title": "Сообщения в истории комнат"
                         },
                         {
                             "type": "page",
