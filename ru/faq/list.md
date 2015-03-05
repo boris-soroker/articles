@@ -40,6 +40,7 @@
  - [Что такое «профиль» и как пользователь может его увидеть?](/articles/ru/faq/list#how-a-user-can-see-his-profile)
  - [Как пользователь может изменить свой профиль?](/articles/ru/faq/list#how-a-user-can-update-his-profile)
  - [Как опубликовать простейшее сообщение?](/articles/ru/faq/list#how-to-send-a-message)
+ - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -564,3 +565,11 @@
 ![clip.png](https://in.kato.im/bf413901f63715d2a3f334ae4cfb5a9edc3af3fbabcb750e63192ab826dbf8b/clip.png)
 
 После публикации всем участникам с доступом к данной комнате будет послано уведомление о новом сообщении в той или иной форме, и данное сообщение будет видно всем участникам, открывшим данную комнату.
+
+### <a href="#how-to-create-a-new-line" name="how-to-create-a-new-line">Как создать сообщение из двух строк?</a>
+
+Комбинация "shift+return" осуществляет переход на новую сроку при создании сообщения:
+
+![clip.png](https://in.kato.im/d9e3bfeec31e193f46d5371ce33468baebd4b3608b99cd73129f595aa0bab9cf/clip.png)
+
+
