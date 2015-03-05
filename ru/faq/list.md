@@ -572,4 +572,10 @@
 
 ![clip.png](https://in.kato.im/d9e3bfeec31e193f46d5371ce33468baebd4b3608b99cd73129f595aa0bab9cf/clip.png)
 
+Клавиша "return" публикует это сообщение из двух строчек:
+
+![clip.png](https://in.kato.im/806a1aa945de283edcb870783a48b7ebf7a9ded4b0a60cb38f76631e194d8e78/clip.png)
+
+
+
 
