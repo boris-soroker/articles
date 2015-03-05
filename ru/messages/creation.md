@@ -9,6 +9,7 @@
  - [Моё сообщение в истории показано гигантским шрифтом. Что делать?](/articles/ru/faq/list#how-to-turn-markdown-off)
  - [Как в сообщение вставить линк к файлу?](/articles/ru/faq/list#how-to-insert-links)
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
+ - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
 
 Какие бывают режимы:
   Режим "Markdown OFF"
