@@ -41,6 +41,7 @@
  - [Как пользователь может изменить свой профиль?](/articles/ru/faq/list#how-a-user-can-update-his-profile)
  - [Как опубликовать простейшее сообщение?](/articles/ru/faq/list#how-to-send-a-message)
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
+ - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -575,6 +576,36 @@
 Клавиша "return" публикует это сообщение из двух строчек:
 
 ![clip.png](https://in.kato.im/806a1aa945de283edcb870783a48b7ebf7a9ded4b0a60cb38f76631e194d8e78/clip.png)
+
+### <a href="#how-to-bold" name="how-to-bold">Как выделить несколько слов в сообщении жирным шрифтом?</a>
+
+Выделение жирным шрифтом текста в сообщении – одна из функций, доступных в режиме "Markdown is on". Markdown – это несложный язык разметки текста (то есть стандарт, определяющий способы делать в тексте наклонный шрифт, заголовки, списки, и тому подобное).
+
+(1) Откройте нужную комнату:
+
+![clip.png](https://in.kato.im/a6dfa794efd767e264a1a3a31c89c6415ab73cf1f2c481f72de460b17f71332/clip.png)
+
+(2) Кликните на иконку «гамбургер» слева от поля ввода:
+
+![clip.png](https://in.kato.im/a94a4b211af150d761b4f3d2677dbe531a02d9f1d55a242e62dc6ce3d67c605/clip.png)
+
+(3) В открывшемся меню кликните на опцию "Markdown", тем самым включая режим "Markdown is on" для данной комнаты:
+
+![clip.png](https://in.kato.im/1ab5fd232a64b33496514f1fc87748ced67ce920486ec7316e46c69a9a018587/clip.png)
+
+(4) Заметьте индикатор под полем ввода:
+
+![clip.png](https://in.kato.im/a0aaad07c16c30c6d09bc2d139d0933cf0c491811c1f90f7d18fb7632d2e3961/clip.png)
+
+(5) Введите текст, используя первые два подчерка для обозначения старта жирного шрифта и следующие два подчерка – для обозначения финиша жирного шрифта в сообщении:
+
+![clip.png](https://in.kato.im/e7d926f4385489426be1820bf02dd3f09f0336cb675d20d13b524a2323638f5/clip.png)
+
+(6) Клавиша "return" публикует это сообщение (обратите внимание на жирный шрифт в опубликованном сообщении):
+
+![clip.png](https://in.kato.im/3c259cb325587b902c5c067541cebbb1a6b88f3d52a79e5e1ea1fbaff7e80d/clip.png)
+ 
+Заметим, что в окне "My Account" есть настройка "Default to Markdown", которая по умолчанию включает режим "Markdown is on" для каждой выделенной комнаты.
 
 
 
