@@ -39,6 +39,7 @@
  - [Как распознать админа?](/articles/ru/faq/list#how-to-spot-an-admin)
  - [Что такое «профиль» и как пользователь может его увидеть?](/articles/ru/faq/list#how-a-user-can-see-his-profile)
  - [Как пользователь может изменить свой профиль?](/articles/ru/faq/list#how-a-user-can-update-his-profile)
+ - [Как опубликовать простейшее сообщение?](/articles/ru/faq/list#how-to-send-a-message)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -543,3 +544,23 @@
 ![clip.png](https://in.kato.im/b2226c07d88d4a4ccb97761c755b6568498f0dc57e2fe36cd4a4cdf16d0318/clip.png)
 
 Отметим, что пользователь может изменить свой е-адрес во вкладке "Credentials" в этом же окне "My Account".
+
+### <a href="#how-to-send-a-message" name="how-to-send-a-message">Как опубликовать простейшее сообщение?</a>
+
+(1) Откройте нужную комнату:
+
+![clip.png](https://in.kato.im/2af72399206f0a10558434a5dfa46d5a7fe979c20ab2cabcdadd7a9b7529d83/clip.png)
+
+(2) Кликните на поле ввода комнаты:
+
+![clip.png](https://in.kato.im/21eef4b7a8a7d84c2b170137fc48e99322ca7dfa7434cf4c2fea0d3cb284a28c/clip.png)
+
+(3) Введите текст:
+
+![clip.png](https://in.kato.im/732da68fcba8d7ad91df23e9dfd9443bad5f4075b667667ab9f4cc66d1066fa4/clip.png)
+
+(4) Клавиша "return" посылает сообщение в историю комнаты (то есть публикует его):
+
+![clip.png](https://in.kato.im/bf413901f63715d2a3f334ae4cfb5a9edc3af3fbabcb750e63192ab826dbf8b/clip.png)
+
+После публикации всем участникам с доступом к данной комнате будет послано уведомление о новом сообщении в той или иной форме, и данное сообщение будет видно всем участникам, открывшим данную комнату.
