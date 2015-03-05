@@ -6,7 +6,7 @@
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Подробнее о языке разметки Markdown](/articles/ru/faq/list#about-markdown)
- - [Как вставить линк к файлу в сообщение?](/articles/ru/faq/list#how-to-insert-links)
+ - [Как в сообщение вставить линк к файлу?](/articles/ru/faq/list#how-to-insert-links)
 
 Какие бывают режимы:
   Режим "Markdown OFF"
