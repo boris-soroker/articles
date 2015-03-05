@@ -11,12 +11,7 @@
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
  - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
  - [Как послать «секретное» сообщение?](/articles/ru/faq/list#otr)
-
-Какие бывают режимы:
-  Режим "Markdown OFF"
-  Режим "Markdown ON"
-  Режим "Code ON"
-  Режим «Без записи»
+ - [Как послать в сообщении линки к видео-конференциям и аудио-конференциям?](/articles/ru/faq/list#conferences)
 
 Что может входить в сообщение:
   Текст (Unicode)
