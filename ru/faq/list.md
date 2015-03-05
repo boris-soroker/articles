@@ -43,6 +43,7 @@
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Можно рассказать подробнее про язык разметки Markdown?](/articles/ru/faq/list#about-markdown)
+ - [Как вставить линк к файлу в сообщение?](/articles/ru/faq/list#how-to-insert-links)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -741,5 +742,5 @@ Markdown — это простой в восприятии язык размет
 
     `<code>` — теги кода необходимо экранировать обратными кавычками.
 
-
+### <a href="#how-to-insert-links" name="how-to-insert-links">Как вставить линк к файлу в сообщение?</a>
 
