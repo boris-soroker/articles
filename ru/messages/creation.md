@@ -10,6 +10,7 @@
  - [Как в сообщение вставить линк к файлу?](/articles/ru/faq/list#how-to-insert-links)
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
  - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
+ - [Как послать «секретное» сообщение?](/articles/ru/faq/list#ort)
 
 Какие бывают режимы:
   Режим "Markdown OFF"
