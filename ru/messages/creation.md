@@ -4,6 +4,7 @@
 
  - [Как опубликовать простейшее сообщение?](/articles/ru/faq/list#how-to-send-a-message)
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
+ - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
 
 Какие бывают режимы:
   Режим "Markdown OFF"
