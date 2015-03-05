@@ -5,6 +5,8 @@
  - [Как опубликовать простейшее сообщение?](/articles/ru/faq/list#how-to-send-a-message)
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
+ - [Подробнее о языке разметки Markdown](/articles/ru/faq/list#about-markdown)
+ - [Как вставить линк к файлу в сообщение?](/articles/ru/faq/list#how-to-insert-links)
 
 Какие бывают режимы:
   Режим "Markdown OFF"
@@ -14,7 +16,6 @@
 
 Что может входить в сообщение:
   Текст (Unicode)
-  Метасимволы языка разметки Markdown
   Упоминание экранного имени участника
   Упоминание имени общедоступной комнаты
   Линк к файлу
