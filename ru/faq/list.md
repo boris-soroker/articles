@@ -43,6 +43,7 @@
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Можно рассказать подробнее про язык разметки Markdown?](/articles/ru/faq/list#about-markdown)
+ - [Моё сообщение в истории показано гигантским шрифтом. Что делать?](/articles/ru/faq/list#how-to-turn-markdown-off)
  - [Как в сообщение вставить линк к файлу?](/articles/ru/faq/list#how-to-insert-links)
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
 
@@ -742,6 +743,20 @@ Markdown — это простой в восприятии язык размет
 #### Вставка кода
 
     `<code>` — теги кода необходимо экранировать обратными кавычками.
+
+### <a href="#how-to-turn-markdown-off" name="how-to-turn-markdown-off">Моё сообщение в истории показано гигантским шрифтом. Что делать?</a>
+
+Вы опубликовали сообщение и неожиданно видите непропорционально крупный шрифт у этого сообщения в истории комнаты:
+
+![clip.png](https://in.kato.im/acc4734b9eef94787cc6f282463a406d9e6e52a8ed6fac01fe65a05c0204980/clip.png)
+
+Скорее всего, Вы нечаянно использовали символ заголовка "#" языка разметки Markdown при режиме "Markdown is on". Если не поздно, просто отредактируйте это собщение (используя клавишу «стрелка вверх»):
+
+![clip.png](https://in.kato.im/3e0e353a8ded88bfdae8a45da6bb0748293d9407b091f5b549386e0ab036390/clip.png)
+
+После удаления символа заголовка "#", клавиша "return" публикует изменённое сообщение: 
+
+![clip.png](https://in.kato.im/ec174640e8e5552bf15946444a5041ef10c6a2aa6d867cebb831c825a92f2da4/clip.png)
 
 ### <a href="#how-to-insert-links" name="how-to-insert-links">Как в сообщение вставить линк к файлу?</a>
 
