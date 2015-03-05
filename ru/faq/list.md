@@ -43,7 +43,7 @@
  - [Как создать сообщение из двух строк?](/articles/ru/faq/list#how-to-create-a-new-line)
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Можно рассказать подробнее про язык разметки Markdown?](/articles/ru/faq/list#about-markdown)
- - [Как вставить линк к файлу в сообщение?](/articles/ru/faq/list#how-to-insert-links)
+ - [Как в сообщение вставить линк к файлу?](/articles/ru/faq/list#how-to-insert-links)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -742,7 +742,7 @@ Markdown — это простой в восприятии язык размет
 
     `<code>` — теги кода необходимо экранировать обратными кавычками.
 
-### <a href="#how-to-insert-links" name="how-to-insert-links">Как вставить линк к файлу в сообщение?</a>
+### <a href="#how-to-insert-links" name="how-to-insert-links">Как в сообщение вставить линк к файлу?</a>
 
 **Публикация файла** - это вставка ссылки к данному файлу в сообщение в некоторой комнате, что делает эту ссылку видимой для всех участников, имеющих доступ к данной комнате. В некоторых случаях публикация ссылки автоматически означает также право на изменение данного файла для каждого участника с доступом к данной комнате (как для ссылок на файлы Google Drive, к примеру).   
 
@@ -781,4 +781,3 @@ Markdown — это простой в восприятии язык размет
 
 <a href="//fast.wistia.net/embed/iframe/sqqejekd2e?popover=true" class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img src="https://embed-ssl.wistia.com/deliveries/ba7aa3b4610b4b789796f6d8d442b7e470d95b75.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=300x169" alt="" /></a>
 <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
-
