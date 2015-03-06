@@ -52,6 +52,7 @@
  - [Как послать в сообщении упоминание экранного имени участника?](/articles/ru/faq/list#member-mentions)
  - [Как послать в сообщении упоминание имени комнаты?](/articles/ru/faq/list#room-mentions)
  - [Как опубликовать очень длинный текст?](/articles/ru/faq/list#long)
+ - [Что такое «история сообщений в данной комнате»?](/articles/ru/faq/list#history)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -922,3 +923,5 @@ TODO: ссылка на длинные сообщения.
 Клик на ссылку в истории открывает полный текст сообщения в отдельном окне браузера:
 
 ![clip.png](https://s3.amazonaws.com/kato-share/3343120541c8ac260e713bcc9ac26623930e954336b091a387ddf4920b3aa13/clip.png)
+
+### <a href="#history" name="history">Что такое «история сообщений в данной комнате»?</a>
