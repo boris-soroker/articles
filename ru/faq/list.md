@@ -993,7 +993,7 @@ TODO: ссылка на длинные сообщения.
 
 ![clip.png](https://in.kato.im/7a1d28cf9692b599c054a2c6c58489a62ba130e8fb85dcce7d268c146f8630c2/clip.png)
 
-Клик на шпалы открывает так называемую **карточку сообщения**, по аналогии с [карточкой пользователя](/articles/ru/faq/list#how-to-see-a-profile-card):
+Клик на шпалы открывает так называемую **карточку сообщения**, по аналогии с [карточкой участника](/articles/ru/faq/list#how-to-see-a-profile-card):
 
 ![clip.png](https://in.kato.im/fa656f625db95aee20616a7389778c76a40a38725e1d95fe8b9785055ec6b3a9/clip.png)
 
