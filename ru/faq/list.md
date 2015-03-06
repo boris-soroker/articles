@@ -44,7 +44,7 @@
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Можно рассказать подробнее про язык разметки Markdown?](/articles/ru/faq/list#about-markdown)
  - [Моё сообщение в истории показано гигантским шрифтом. Что делать?](/articles/ru/faq/list#how-to-turn-markdown-off)
- - [Как в сообщение вставить ссылку на файл?](/articles/ru/faq/list#how-to-insert-links)
+ - [Как в сообщении вставить ссылку на файл?](/articles/ru/faq/list#how-to-insert-links)
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
  - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
  - [Как послать «секретное» сообщение?](/articles/ru/faq/list#otr)
@@ -764,7 +764,7 @@ Markdown — это простой в восприятии язык размет
 
 ![clip.png](https://in.kato.im/ec174640e8e5552bf15946444a5041ef10c6a2aa6d867cebb831c825a92f2da4/clip.png)
 
-### <a href="#how-to-insert-links" name="how-to-insert-links">Как в сообщение вставить ссылку на файл?</a>
+### <a href="#how-to-insert-links" name="how-to-insert-links">Как в сообщении вставить ссылку на файл?</a>
 
 **Публикация файла** - это вставка ссылки к данному файлу в сообщение в некоторой комнате, что делает эту ссылку видимой для всех участников, имеющих доступ к данной комнате. В некоторых случаях публикация ссылки автоматически означает также право на изменение данного файла для каждого участника с доступом к данной комнате (как для ссылок на файлы Google Drive, к примеру).   
 
