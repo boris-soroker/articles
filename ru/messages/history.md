@@ -4,3 +4,4 @@
 
  - [Что такое «история сообщений в данной комнате»?](/articles/ru/faq/list#history)
  - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
+ - [Как загрузить историю комнаты в файл?](/articles/ru/faq/list#how-to-download-room-history)
