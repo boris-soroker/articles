@@ -7,7 +7,7 @@
  - [Как выделить несколько слов в сообщении жирным шрифтом?](/articles/ru/faq/list#how-to-bold)
  - [Подробнее о языке разметки Markdown](/articles/ru/faq/list#about-markdown)
  - [Моё сообщение в истории показано гигантским шрифтом. Что делать?](/articles/ru/faq/list#how-to-turn-markdown-off)
- - [Как в сообщение вставить ссылку на файл?](/articles/ru/faq/list#how-to-insert-links)
+ - [Как в сообщении вставить ссылку на файл?](/articles/ru/faq/list#how-to-insert-links)
  - [Смайлики!](/articles/ru/faq/list#emoji-support)
  - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
  - [Как послать «секретное» сообщение?](/articles/ru/faq/list#otr)
