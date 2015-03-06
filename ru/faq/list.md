@@ -49,6 +49,7 @@
  - [Как опубликовать фрагмент кода?](/articles/ru/faq/list#code-support)
  - [Как послать «секретное» сообщение?](/articles/ru/faq/list#otr)
  - [Как послать в сообщении линки к видео-конференциям и аудио-конференциям?](/articles/ru/faq/list#conferences)
+ - [Как послать в сообщении упоминание экранного имени участника?](/articles/ru/faq/list#member-mentions)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -857,3 +858,6 @@ TODO: ссылка на длинные сообщения.
 ![clip.png](https://in.kato.im/93929c426b273838dd5be71d1c943a9bfc7ebbf2fa005751b176ca3ec97b04af/clip.png)
 
 Подробнее работа с конференциями рассмотрена в разделе [Дополнительные возможности]() 
+
+### <a href="#member-mentions" name="member-mentions">Как послать в сообщении упоминание экранного имени участника?</a>
+
