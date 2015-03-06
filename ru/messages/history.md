@@ -7,3 +7,4 @@
  - [Как изменить опубликованное мною сообщение?](/articles/ru/faq/list#editing)
  - [Как искать текст в истории комнаты?](/articles/ru/faq/list#how-to-search-open-room)
  - [Как загрузить историю комнаты в файл?](/articles/ru/faq/list#how-to-download-room-history)
+ - [Что такое «карточка сообщения»?](/articles/ru/faq/list#message-card)
