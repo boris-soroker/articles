@@ -59,6 +59,9 @@
  - [Где найти Kato-приложение для операционной системы iOS?](/articles/ru/faq/list#ios)
  - [Где найти Kato-приложение для операционной системы OS X?](/articles/ru/faq/list#osx)
  - [Как создать ярлык для Kato-приложения в операционной системе Windows?](/articles/ru/faq/list#windows)
+ - [Что такое «клавиатурный контроль»?](/articles/ru/faq/list#keyboard-control)
+ - [Как включить клавиатурный контроль и выключить его?](/articles/ru/faq/list#keyboard-control-on)
+ - [Какие директивы поддерживаются клавиатурным контролем?](/articles/ru/faq/list#keyboard-control-directives)
  
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -1054,3 +1057,27 @@ TODO: ссылка на длинные сообщения.
 (5) В появившемся диалоговом окне выберите место на диске, куда будет сохранен ярлык для быстрого запуска приложения. 
 
 (6) Создайте данный ярлык с помощью "Create".
+
+### <a href="#keyboard-control" name="keyboard-control">Что такое «клавиатурный контроль»?</a>
+
+**Клавиатурный контроль** позволяет работать в Kato, почти не отвлекаясь на управление мышкой. 
+
+Пользователи Kato, знакомые с Unix-редактором [vi](http://en.wikipedia.org/wiki/Vi), будут обрадованы сходством решений - клавиатурный контроль Kato тоже имеет два режима работы, из которых один, **режим директив**, служит для ввода односимвольных директив (иногда - в сочетании с клавишами-модификаторами), а второй, **режим ввода**, используется для набора и редактирования текста. Для переключения в режим директив следует нажать клавишу "escape". Переход в режим ввода осуществляется директивой "i", а также некоторыми другими директивами в виде побочных эффектов (упомянутых в описаниях [директив](/articles/ru/faq/list#keyboard-control-directives)).
+
+### <a href="#keyboard-control-on" name="keyboard-control-on">Как включить клавиатурный контроль и выключить его?</a>
+
+По умолчанию клавиатурный контроль отключён, поэтому его сначала необходимо активировать во вкладке "Options" окна "My Account": 
+
+![clip.png](https://in.kato.im/2ec880aace1abdd1b80ab34d8ff45a8ca34770d1cd14ba0bf6f47c8a39f1bb1/clip.png)
+
+### <a href="#keyboard-control-directives" name="keyboard-control-directives">Какие директивы поддерживаются клавиатурным контролем?</a>
+
+### Директивы клавиатурного контроля:
+
+![clip](https://in.kato.im/8a41e7dd93568a57d422307af7f6d014695bb38c6d9ed9cc783e79f4e00ebff0/clip.png)
+
+![clip](https://in.kato.im/3cea4b5861acbb996d6c96182c99bb477378e6d914e128ad1cb8af2f36e27b7/clip.png)
+
+![clip](https://in.kato.im/cac51a47a26d24b5fed6ed10165f50441a0db19e802ae7153d2dfbceccc9a9d8/clip.png)
+
+![clip](https://in.kato.im/11483153880220031b93ed0e5d9f2ccc99efa565b6a9bfb23ff41d4e1a625121/clip.png)
