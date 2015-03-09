@@ -62,6 +62,7 @@
  - [Что такое «клавиатурный контроль»?](/articles/ru/faq/list#keyboard-control)
  - [Как включить клавиатурный контроль и выключить его?](/articles/ru/faq/list#keyboard-control-on)
  - [Какие директивы поддерживаются клавиатурным контролем?](/articles/ru/faq/list#keyboard-control-directives)
+ - [Что такое "Katobot"?](/articles/ru/faq/list#katobot)
  
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -1081,3 +1082,17 @@ TODO: ссылка на длинные сообщения.
 ![clip](https://in.kato.im/cac51a47a26d24b5fed6ed10165f50441a0db19e802ae7153d2dfbceccc9a9d8/clip.png)
 
 ![clip](https://in.kato.im/11483153880220031b93ed0e5d9f2ccc99efa565b6a9bfb23ff41d4e1a625121/clip.png)
+
+### <a href="#katobot" name="katobot">Что такое "Katobot"?</a>
+
+Katobot позволяет реагировать на определённые директивы, опубликованные в виде сообщений с заданным синтаксисом в комнатах.
+
+Например, по директиве "GH79", использованной в людой комнате команды разработчиков Kato, Katobot выводит заголовок описания записи с номером 79 в нашем GitHub репозитории:
+
+![clip.png](https://in.kato.im/999492388fe8c8d66ff01241e0b77df4b76df360dca8196cf2a6b696e40851dd/clip.png)
+
+Код доступен по адресу [https://github.com/kato-im/hubot-kato](https://github.com/kato-im/hubot-kato).
+
+Ещё один пример:
+
+![clip.png](https://in.kato.im/69a8232399122454cecd3a4614325b349261c933713c695d380df8a4c2bd76b3/clip.png)
