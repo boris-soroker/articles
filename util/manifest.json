@@ -426,23 +426,13 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "noise-control",
-                            "title": "Управление информационным шумом"
+                            "src": "types",
+                            "title": "Виды уведомлений"
                         },
                         {
                             "type": "page",
-                            "src": "group-mentions",
-                            "title": "Упоминание группы"
-                        },
-                        {
-                            "type": "page",
-                            "src": "audio-notifications",
-                            "title": "Звуковые уведомления"
-                        },
-                        {
-                            "type": "page",
-                            "src": "auto-hide-notifications",
-                            "title": "Прячем всплывающие уведомления на десктопе"
+                            "src": "operations",
+                            "title": "Операции с уведомлениями"
                         },
                         {
                             "type": "page",
