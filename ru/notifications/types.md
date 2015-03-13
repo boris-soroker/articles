@@ -18,4 +18,5 @@
 ### <a href="#pill" name="pill">«Пилюля»</a>
 
  - [Что такое «пилюля»?](/articles/ru/faq/list#pill)
- 
+ - [Что означают разные цвета пилюль?](/articles/ru/faq/list#pill-color)
+ - [Где в пользовательском интерфейсе могут встретиться пилюли?](/articles/ru/faq/list#pill-locations)
