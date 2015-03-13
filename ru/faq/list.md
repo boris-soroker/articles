@@ -68,6 +68,8 @@
  - [Что такое «пилюля»?](/articles/ru/faq/list#pill)
  - [Что означают разные цвета пилюль?](/articles/ru/faq/list#pill-color)
  - [Где в пользовательском интерфейсе могут встретиться пилюли?](/articles/ru/faq/list#pill-locations)
+ - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
+ - [Я не вижу всплывающее уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -1130,3 +1132,11 @@ Katobot позволяет реагировать на определённые 
 ![clip.png](https://in.kato.im/ffde7e4deba62200ebb8393fd9e4fe0538d12057cbc0c2fa1c21aac8543cfa04/clip.png)
 
 ![clip.png](https://in.kato.im/d59977d7d13a2079fdafa53b14c10784f6b9b2599f333abe9dca5c8934982554/clip.png)
+
+### <a href="#toast" name="toast">Что такое «всплывающее уведомление»?</a>
+
+Обычно эти небольшие окна всплывают в углу монитора:
+
+![clip.png](https://in.kato.im/3207fa53814cb70c646b61218b8ccdcb59c8cf0d6a54b06bc0cb00af767a1b4c/clip.png)
+
+### <a href="#toast-allow" name="toast-allow">Я не вижу всплывающее уведомлений. Что делать?</a>
