@@ -1128,3 +1128,5 @@ Katobot позволяет реагировать на определённые 
 ### <a href="#pill-locations" name="pill-locations">Где я могу увидеть пилюли в пользовательском интерфейсе?</a>
 
 ![clip.png](https://in.kato.im/ffde7e4deba62200ebb8393fd9e4fe0538d12057cbc0c2fa1c21aac8543cfa04/clip.png)
+
+![clip.png](https://in.kato.im/d59977d7d13a2079fdafa53b14c10784f6b9b2599f333abe9dca5c8934982554/clip.png)
