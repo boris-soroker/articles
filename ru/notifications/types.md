@@ -20,3 +20,7 @@
  - [Что такое «пилюля»?](/articles/ru/faq/list#pill)
  - [Что означают разные цвета пилюль?](/articles/ru/faq/list#pill-color)
  - [Где в пользовательском интерфейсе могут встретиться пилюли?](/articles/ru/faq/list#pill-locations)
+
+### <a href="#toast" name="toast">Всплывающее уведомление на десктопе</a>
+
+ - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
