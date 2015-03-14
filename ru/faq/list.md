@@ -69,6 +69,7 @@
  - [Что означают разные цвета пилюль?](/articles/ru/faq/list#pill-color)
  - [Где в пользовательском интерфейсе могут встретиться пилюли?](/articles/ru/faq/list#pill-locations)
  - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
+ - [Как включить или выключить всплывающее уведомление?](/articles/ru/faq/list#toast-turn)
  - [Я не вижу всплывающих уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
  - [Что такое «звуковое уведомление на десктопе»?](/articles/ru/faq/list#sound-desktop)
  - [Как включить или выключить звуковое уведомление на десктопе?](/articles/ru/faq/list#sound-desktop-turn)
@@ -1148,7 +1149,11 @@ Katobot позволяет реагировать на определённые 
 
 В частности, для браузера Chrome имеется опция в окне "My Account", позволяющая включать и выключать ручной режим закрытия всплывающих уведомлений:
 
-[clip.png](https://in.kato.im/cc91de039cef108df99712ac2b1fb8bcbed7b03d018914b05bf2dfb9e25aca/clip.png)
+![clip.png](https://in.kato.im/cc91de039cef108df99712ac2b1fb8bcbed7b03d018914b05bf2dfb9e25aca/clip.png)
+
+### <a href="#toast-turn" name="toast-turn">Как включить или выключить всплывающее уведомление?</a>
+
+![clip.png](https://in.kato.im/10dfa8f6663e0efce74844ac2d10f300fc81d1bcd1d34f2f20216097de8ba9a/clip.png)
 
 ### <a href="#toast-allow" name="toast-allow">Я не вижу всплывающих уведомлений. Что делать?</a>
 
