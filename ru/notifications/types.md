@@ -26,6 +26,7 @@
 ### <a href="#toast" name="toast">Всплывающее уведомление на десктопе</a>
 
  - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
+ - [Как включить или выключить всплывающие уведомления?](/articles/ru/faq/list#toast-turn)
  - [Я не вижу всплывающих уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
 
 ### <a href="#sound-desktop" name="sound-desktop">Звуковое уведомление на десктопе</a>
