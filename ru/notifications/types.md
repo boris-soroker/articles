@@ -25,3 +25,5 @@
 
  - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
  - [Я не вижу всплывающих уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
+
+### <a href="#sound-desktop" name="sound-desktop">Звуковое уведомление на десктопе</a>
