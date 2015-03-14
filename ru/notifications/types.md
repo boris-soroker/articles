@@ -24,3 +24,4 @@
 ### <a href="#toast" name="toast">Всплывающее уведомление на десктопе</a>
 
  - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
+ - [Я не вижу всплывающих уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
