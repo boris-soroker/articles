@@ -9,7 +9,7 @@
  - [Звуковое уведомление на десктопе](/articles/ru/notifications/types#sound-desktop)
  - [Уведомление в истории](/articles/ru/notifications/types#bar)
  - [Уведомление по электронной почте о непрочитанном сообщении в 1:1](/articles/ru/notifications/types#email-1-1)
- - [Уведомление по электронной почте о непрочитанном сообщении с моим окликом](/articles/ru/notifications/types#email-mention)
+ - [Уведомление по электронной почте о непрочитанном сообщении с окликом пользователя](/articles/ru/notifications/types#email-mention)
  - [Уведомление на вкладке](/articles/ru/notifications/types#tab)
  - [Уведомление на фавиконе](/articles/ru/notifications/types#favicon)
  - [Ярлык в доке OS X](/articles/ru/notifications/types#badge-osx)
