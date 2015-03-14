@@ -70,6 +70,11 @@
  - [Где в пользовательском интерфейсе могут встретиться пилюли?](/articles/ru/faq/list#pill-locations)
  - [Что такое «всплывающее уведомление»?](/articles/ru/faq/list#toast)
  - [Я не вижу всплывающих уведомлений. Что делать?](/articles/ru/faq/list#toast-allow)
+ - [Что такое «звуковое уведомление на десктопе»?](/articles/ru/faq/list#sound-desktop)
+ - [Как включить или выключить звуковое уведомление на десктопе?](/articles/ru/faq/list#sound-desktop-turn)
+ - [Я включил звуковое уведомление на десктопе, но оно не работает. Что делать?](/articles/ru/faq/list#sound-desktop-troubleshooting)
+ - [Можно ли поменять звук в звуковом уведомлении на десктопе?](/articles/ru/faq/list#sound-desktop-change)
+
 
 ### <a href="#how-to-create-a-new-team" name="how-to-create-a-new-team">Как создать команду?</a>
 
@@ -1146,3 +1151,21 @@ Katobot позволяет реагировать на определённые 
 [clip.png](https://in.kato.im/cc91de039cef108df99712ac2b1fb8bcbed7b03d018914b05bf2dfb9e25aca/clip.png)
 
 ### <a href="#toast-allow" name="toast-allow">Я не вижу всплывающих уведомлений. Что делать?</a>
+
+Work in progress
+
+### <a href="#sound-desktop" name="sound-desktop">Что такое «звуковое уведомление на десктопе»?</a>
+
+Work in progress
+
+### <a href="#sound-desktop-turn" name="sound-desktop-turn">Как включить или выключить звуковое уведомление на десктопе?</a>
+
+Work in progress
+
+### <a href="#sound-desktop-troubleshooting" name="sound-desktop-troubleshooting">Я включил звуковое уведомление на десктопе, но оно не работает. Что делать?</a>
+
+Work in progress
+
+### <a href="#sound-desktop-change" name="sound-desktop-change">Можно ли поменять звук в звуковом уведомлении на десктопе?</a>
+
+В настоящее время нельзя (запросы есть, но пока не сделано).
