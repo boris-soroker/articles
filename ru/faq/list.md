@@ -1160,7 +1160,7 @@ Work in progress
 
 ### <a href="#sound-desktop-turn" name="sound-desktop-turn">Как включить или выключить звуковое уведомление на десктопе?</a>
 
-Work in progress
+![clip.png](https://in.kato.im/c8be91dc74b004f87adadc0085c63ecdc0e08e2f450de4b46ea65e08253924b/clip.png)
 
 ### <a href="#sound-desktop-troubleshooting" name="sound-desktop-troubleshooting">Я включил звуковое уведомление на десктопе, но оно не работает. Что делать?</a>
 
