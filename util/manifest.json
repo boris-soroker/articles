@@ -431,8 +431,8 @@
                         },
                         {
                             "type": "page",
-                            "src": "operations",
-                            "title": "Операции с уведомлениями"
+                            "src": "settings",
+                            "title": "Настройка уведомлений"
                         },
                         {
                             "type": "page",
